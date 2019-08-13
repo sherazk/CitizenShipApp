@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitizenShipApp", "CitizenShipApp\CitizenShipApp.csproj", "{A26EBE54-4A33-46F4-A22D-17A10B741E5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitizenShipApp.Test", "CitizenShipApp.Test\CitizenShipApp.Test.csproj", "{DA3DA694-7563-43D1-B3D0-655CBDF879AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A26EBE54-4A33-46F4-A22D-17A10B741E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26EBE54-4A33-46F4-A22D-17A10B741E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26EBE54-4A33-46F4-A22D-17A10B741E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26EBE54-4A33-46F4-A22D-17A10B741E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3DA694-7563-43D1-B3D0-655CBDF879AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3DA694-7563-43D1-B3D0-655CBDF879AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3DA694-7563-43D1-B3D0-655CBDF879AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3DA694-7563-43D1-B3D0-655CBDF879AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DFB9E63-6392-4B69-ABD2-2A43A099CA73}
+	EndGlobalSection
+EndGlobal

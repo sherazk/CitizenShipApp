@@ -1,0 +1,1727 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Chapters>
+  <Chapter ChapterId="1" ChapterName="Rights and Responsibilities of Citizenship">
+    <Quiz Question="Name one source of Canadian law">
+      <Answer Answer="United States common law" IsCorrectAnswer="0" />
+      <Answer Answer="Irish common law" IsCorrectAnswer="0" />
+      <Answer Answer="The military code of France" IsCorrectAnswer="0" />
+      <Answer Answer="English common law" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="What is Magna Carta?">
+      <Answer Answer="The Great Charter of Freedoms" IsCorrectAnswer="1" />
+      <Answer Answer="A map of the world in 1215" IsCorrectAnswer="0" />
+      <Answer Answer="The constitution of Ireland" IsCorrectAnswer="0" />
+      <Answer Answer="The Great Code of England" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The Great Charter of Freedoms was signed in">
+      <Answer Answer="France" IsCorrectAnswer="0" />
+      <Answer Answer="Canada" IsCorrectAnswer="0" />
+      <Answer Answer="Ireland" IsCorrectAnswer="0" />
+      <Answer Answer="England" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="When was the Magna Carta signed?">
+      <Answer Answer="1615" IsCorrectAnswer="0" />
+      <Answer Answer="1425" IsCorrectAnswer="0" />
+      <Answer Answer="1215" IsCorrectAnswer="1" />
+      <Answer Answer="1649" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What does the Great Charter of Freedom include?">
+      <Answer Answer="Freedom of conscience and religion" IsCorrectAnswer="1" />
+      <Answer Answer="Employment rights" IsCorrectAnswer="0" />
+      <Answer Answer="Aboriginal Peoples' rights" IsCorrectAnswer="0" />
+      <Answer Answer="Freedom from taxes" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is Habeas Corpus?">
+      <Answer Answer="The right to challenge unlawful detention by the state" IsCorrectAnswer="1" />
+      <Answer Answer="The right to live and work anywhere in Canada" IsCorrectAnswer="0" />
+      <Answer Answer="The right to speak freely" IsCorrectAnswer="0" />
+      <Answer Answer="The right for peaceful assembly" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="When was the Constitution of Canada amended to include the Charter of Rights and Freedoms?">
+      <Answer Answer="1902" IsCorrectAnswer="0" />
+      <Answer Answer="1982" IsCorrectAnswer="1" />
+      <Answer Answer="1859" IsCorrectAnswer="0" />
+      <Answer Answer="1949" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Who proclaimed the amended Constitution of Canada in 1982?">
+      <Answer Answer="The Prime Minister" IsCorrectAnswer="0" />
+      <Answer Answer="The Senate" IsCorrectAnswer="0" />
+      <Answer Answer="Queen Elizabeth II" IsCorrectAnswer="1" />
+      <Answer Answer="The people of Canada" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What are the two principles upon which Canada is founded?">
+      <Answer Answer="The supremacy of God and freedom of speech" IsCorrectAnswer="0" />
+      <Answer Answer="The supremacy of God and the rule of law" IsCorrectAnswer="1" />
+      <Answer Answer="Mobility right and the rule of law" IsCorrectAnswer="0" />
+      <Answer Answer="The supremacy of law and the rule of God" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="With which words does the Canadian Charter of Rights and Freedoms begin?">
+      <Answer Answer="Canada is a free country and home of the braves" IsCorrectAnswer="0" />
+      <Answer Answer="Oh Canada! Our home and native land!" IsCorrectAnswer="0" />
+      <Answer Answer="Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law" IsCorrectAnswer="1" />
+      <Answer Answer="Canadian citizens have rights and responsibilities" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What are Mobility Rights?">
+      <Answer Answer="Canadians have freedom of speech" IsCorrectAnswer="0" />
+      <Answer Answer="Canadians can enter and leave the country freely, and apply for a passport" IsCorrectAnswer="0" />
+      <Answer Answer="Canadians can live and work anywhere they choose in Canada, enter/leave the country freely, and apply for a passport" IsCorrectAnswer="1" />
+      <Answer Answer="Canadians can live and work anywhere they choose in Canada, and enter/leave the country freely" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Who can enter and leave the country freely without time constraints?">
+      <Answer Answer="Canadian citizens" IsCorrectAnswer="1" />
+      <Answer Answer="Canadian citizens and landed immigrants" IsCorrectAnswer="0" />
+      <Answer Answer="British citizens" IsCorrectAnswer="0" />
+      <Answer Answer="Commonwealth citizens" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which three rights are included in the Canadian Charter of Rights and Freedoms?">
+      <Answer Answer="Mobility rights, Aboriginal Peoples' rights, and official language rights" IsCorrectAnswer="1" />
+      <Answer Answer="Freedom of expression rights, property rights and fair trial rights" IsCorrectAnswer="0" />
+      <Answer Answer="Employment rights, mobility rights, and freedom rights" IsCorrectAnswer="0" />
+      <Answer Answer="Aboriginal Peoples' rights, voting rights and official language rights" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Canadians work hard to respect">
+      <Answer Answer="Marxism" IsCorrectAnswer="0" />
+      <Answer Answer="Individualism" IsCorrectAnswer="0" />
+      <Answer Answer="Capitalism" IsCorrectAnswer="0" />
+      <Answer Answer="Pluralism" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="What is a fundamental characteristic of the Canadian heritage and identity?">
+      <Answer Answer="Hockey" IsCorrectAnswer="0" />
+      <Answer Answer="Maple Syrup" IsCorrectAnswer="0" />
+      <Answer Answer="Multiculturalism" IsCorrectAnswer="1" />
+      <Answer Answer="Habeas Corpus" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What are three responsibilities of Canadian citizenship?">
+      <Answer Answer="Being loyal to Canada, recycling all waste, and serving in the Canadian Forces?" IsCorrectAnswer="0" />
+      <Answer Answer="Obeying the law, taking responsibility for oneself and one's family, and serving on a jury" IsCorrectAnswer="1" />
+      <Answer Answer="Learning both official languages, voting in elections, and belonging to a union" IsCorrectAnswer="0" />
+      <Answer Answer="Buying Canadian products, owning your own house, and using less water" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is a noble way to contribute to Canada and an excellent career choice?">
+      <Answer Answer="Learn both official languages" IsCorrectAnswer="0" />
+      <Answer Answer="Serve on a jury" IsCorrectAnswer="0" />
+      <Answer Answer="Belong to a union" IsCorrectAnswer="0" />
+      <Answer Answer="Serve in the regular Canadian Forces" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="What key phrase in the British North American Act of 1867 do institutions uphold a commitment to?">
+      <Answer Answer="Peace and ordered liberty" IsCorrectAnswer="0" />
+      <Answer Answer="Liberty and good government" IsCorrectAnswer="0" />
+      <Answer Answer="Peace, order and good government" IsCorrectAnswer="1" />
+      <Answer Answer="Freedom, happiness and enterprise" IsCorrectAnswer="0" />
+    </Quiz>
+  </Chapter>
+  <Chapter ChapterId="2" ChapterName="Who We Are">
+    <Quiz Question="In what year was it recognized by the House of Commons that Québecois are a distinct nation within United Canada?">
+      <Answer Answer="1966" IsCorrectAnswer="0" />
+      <Answer Answer="1996" IsCorrectAnswer="0" />
+      <Answer Answer="2006" IsCorrectAnswer="1" />
+      <Answer Answer="1986" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which of these is not one of the founding peoples of Canada?">
+      <Answer Answer="The Germans" IsCorrectAnswer="1" />
+      <Answer Answer="The British" IsCorrectAnswer="0" />
+      <Answer Answer="The Aboriginal Peoples" IsCorrectAnswer="0" />
+      <Answer Answer="The French" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Gay and lesbian Canadians have equal rights to…?">
+      <Answer Answer="Protection from discrimination" IsCorrectAnswer="0" />
+      <Answer Answer="Civil marriage" IsCorrectAnswer="0" />
+      <Answer Answer="All of these" IsCorrectAnswer="1" />
+      <Answer Answer="Healthcare" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="When were territorial rights for Canada’s Aboriginal people first established?">
+      <Answer Answer="1663" IsCorrectAnswer="0" />
+      <Answer Answer="1863" IsCorrectAnswer="0" />
+      <Answer Answer="1763" IsCorrectAnswer="1" />
+      <Answer Answer="1963" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The Canadian government stopped trying to force Aboriginal children to integrate into mainstream Canadian culture in what decade?">
+      <Answer Answer="1890s" IsCorrectAnswer="0" />
+      <Answer Answer="1950s" IsCorrectAnswer="0" />
+      <Answer Answer="1980s" IsCorrectAnswer="1" />
+      <Answer Answer="1920s" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which of these does not border onto Canada?">
+      <Answer Answer="The Pacific Ocean" IsCorrectAnswer="0" />
+      <Answer Answer="The Arctic" IsCorrectAnswer="0" />
+      <Answer Answer="The Atlantic Ocean" IsCorrectAnswer="0" />
+      <Answer Answer="The Gulf of Mexico" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Anglophones are usually referred to as…?">
+      <Answer Answer="British Canadians" IsCorrectAnswer="0" />
+      <Answer Answer="Original Canadians" IsCorrectAnswer="0" />
+      <Answer Answer="Canadian Englishmen" IsCorrectAnswer="0" />
+      <Answer Answer="English Canadians" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Which of these is the Canadian system of government?">
+      <Answer Answer="Republican democracy" IsCorrectAnswer="0" />
+      <Answer Answer="Autocracy" IsCorrectAnswer="0" />
+      <Answer Answer="Constitutional monarchy" IsCorrectAnswer="1" />
+      <Answer Answer="Benign dictatorship" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Between 1755 and 1763, more than two thirds of French settlers were deported due to a war between the French and…?">
+      <Answer Answer="The British" IsCorrectAnswer="1" />
+      <Answer Answer="The Germans" IsCorrectAnswer="0" />
+      <Answer Answer="The Aboriginal peoples" IsCorrectAnswer="0" />
+      <Answer Answer="The Americans" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Since the 1970s, the majority of immigrants to Canada have come from where?">
+      <Answer Answer="Europe" IsCorrectAnswer="0" />
+      <Answer Answer="Asia" IsCorrectAnswer="1" />
+      <Answer Answer="Africa" IsCorrectAnswer="0" />
+      <Answer Answer="South America" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In their own language, what does “Inuit” mean?">
+      <Answer Answer="The people" IsCorrectAnswer="1" />
+      <Answer Answer="The hunters" IsCorrectAnswer="0" />
+      <Answer Answer="The sailors" IsCorrectAnswer="0" />
+      <Answer Answer="The fighters" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="How many people in Canada have French as their first language?">
+      <Answer Answer="4 million" IsCorrectAnswer="0" />
+      <Answer Answer="11 million" IsCorrectAnswer="0" />
+      <Answer Answer="2 million" IsCorrectAnswer="0" />
+      <Answer Answer="7 million" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Rights for Aboriginal people are…?">
+      <Answer Answer="Non-existent" IsCorrectAnswer="0" />
+      <Answer Answer="A matter of custom" IsCorrectAnswer="0" />
+      <Answer Answer="Guaranteed in the constitution" IsCorrectAnswer="1" />
+      <Answer Answer="A matter for individual provinces" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Modern Canadian society is largely derived from which civilisations?">
+      <Answer Answer="French and German" IsCorrectAnswer="0" />
+      <Answer Answer="French and Danish" IsCorrectAnswer="0" />
+      <Answer Answer="English and French" IsCorrectAnswer="1" />
+      <Answer Answer="English and German" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Canada is known across the world for being…?">
+      <Answer Answer="Strong and free" IsCorrectAnswer="1" />
+      <Answer Answer="Devious and wily" IsCorrectAnswer="0" />
+      <Answer Answer="Weak and soft" IsCorrectAnswer="0" />
+      <Answer Answer="Tough and aggressive" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Roughly what proportion of First Nations people live on reserve land?">
+      <Answer Answer="50%" IsCorrectAnswer="1" />
+      <Answer Answer="5%" IsCorrectAnswer="0" />
+      <Answer Answer="75%" IsCorrectAnswer="0" />
+      <Answer Answer="25%" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What proportion of aboriginal people are Inuit?">
+      <Answer Answer="4%" IsCorrectAnswer="1" />
+      <Answer Answer="12%" IsCorrectAnswer="0" />
+      <Answer Answer="25%" IsCorrectAnswer="0" />
+      <Answer Answer="40%" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="First Nations make up what percentage of Canada’s Aboriginal peoples?">
+      <Answer Answer="65%" IsCorrectAnswer="1" />
+      <Answer Answer="85%" IsCorrectAnswer="0" />
+      <Answer Answer="35%" IsCorrectAnswer="0" />
+      <Answer Answer="15%" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which of these is not one of the 12 largest ethnic groups in Canada?">
+      <Answer Answer="Scottish" IsCorrectAnswer="0" />
+      <Answer Answer="Ukrainian" IsCorrectAnswer="0" />
+      <Answer Answer="Dutch" IsCorrectAnswer="0" />
+      <Answer Answer="Polish" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="In Vancouver and Toronto, which of these languages is the second most commonly spoken at home, after English?">
+      <Answer Answer="Pushtu" IsCorrectAnswer="0" />
+      <Answer Answer="Swahili" IsCorrectAnswer="0" />
+      <Answer Answer="Chinese" IsCorrectAnswer="1" />
+      <Answer Answer="Spanish" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="It is believed that the ancestors of Canada’s Aboriginal peoples came from where?">
+      <Answer Answer="Asia" IsCorrectAnswer="1" />
+      <Answer Answer="South America" IsCorrectAnswer="0" />
+      <Answer Answer="Europe" IsCorrectAnswer="0" />
+      <Answer Answer="Africa" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Roughly how many First Nations communities are there in Canada?">
+      <Answer Answer="1200" IsCorrectAnswer="0" />
+      <Answer Answer="600" IsCorrectAnswer="1" />
+      <Answer Answer="300" IsCorrectAnswer="0" />
+      <Answer Answer="150" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Canada is often called…?">
+      <Answer Answer="The land of immigrants" IsCorrectAnswer="1" />
+      <Answer Answer="The land of religion" IsCorrectAnswer="0" />
+      <Answer Answer="The land of isolation" IsCorrectAnswer="0" />
+      <Answer Answer="The land of waterfalls" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="How many Anglo-Quebecers have a heritage going back 250 years or more?">
+      <Answer Answer="500,000" IsCorrectAnswer="0" />
+      <Answer Answer="1 million" IsCorrectAnswer="1" />
+      <Answer Answer="250,000" IsCorrectAnswer="0" />
+      <Answer Answer="1.5 million" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The descendants of the original French settlers are known as what?">
+      <Answer Answer="Acadians" IsCorrectAnswer="1" />
+      <Answer Answer="French founders" IsCorrectAnswer="0" />
+      <Answer Answer="First Canadians" IsCorrectAnswer="0" />
+      <Answer Answer="Native French" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In which year did French colonists begin to settle in the Maritime provinces?">
+      <Answer Answer="1624" IsCorrectAnswer="0" />
+      <Answer Answer="1594" IsCorrectAnswer="0" />
+      <Answer Answer="1604" IsCorrectAnswer="1" />
+      <Answer Answer="1614" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What Act formed the Confederation of Canada?">
+      <Answer Answer="The British North America Act of 1867" IsCorrectAnswer="1" />
+      <Answer Answer="Magna Carta of 1215" IsCorrectAnswer="0" />
+      <Answer Answer="The British North America Act of 1887" IsCorrectAnswer="0" />
+      <Answer Answer="The Quebec Act of 1774" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Those who immigrate to Canada are expected to…?">
+      <Answer Answer="Embrace democratic principles" IsCorrectAnswer="1" />
+      <Answer Answer="Ignore Canada’s principles" IsCorrectAnswer="0" />
+      <Answer Answer="Retain the principles of their original country" IsCorrectAnswer="0" />
+      <Answer Answer="Any of these" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="All Aboriginal people who are neither Inuit nor Metis are known as what?">
+      <Answer Answer="First Nations" IsCorrectAnswer="1" />
+      <Answer Answer="Red Indians" IsCorrectAnswer="0" />
+      <Answer Answer="Aliens" IsCorrectAnswer="0" />
+      <Answer Answer="They don’t have a name" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Metis are a people with a combined heritage of Aboriginal people and…?">
+      <Answer Answer="South American people" IsCorrectAnswer="0" />
+      <Answer Answer="Asian people" IsCorrectAnswer="0" />
+      <Answer Answer="European people" IsCorrectAnswer="1" />
+      <Answer Answer="African people" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The majority of Canadians identify themselves as…?">
+      <Answer Answer="Christians" IsCorrectAnswer="1" />
+      <Answer Answer="Muslims" IsCorrectAnswer="0" />
+      <Answer Answer="Hindus" IsCorrectAnswer="0" />
+      <Answer Answer="Atheists" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="How many people in Canada have English as their first language?">
+      <Answer Answer="23 million" IsCorrectAnswer="0" />
+      <Answer Answer="11 million" IsCorrectAnswer="0" />
+      <Answer Answer="18 million" IsCorrectAnswer="1" />
+      <Answer Answer="7 million" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="How many groups make up the Aboriginal people of Canada?">
+      <Answer Answer="Three" IsCorrectAnswer="1" />
+      <Answer Answer="Four" IsCorrectAnswer="0" />
+      <Answer Answer="Nobody knows" IsCorrectAnswer="0" />
+      <Answer Answer="Five" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The phrase that rules Canadian institutions, “Peace, Order and Good Government” comes from where?">
+      <Answer Answer="The Code Napoleon" IsCorrectAnswer="0" />
+      <Answer Answer="Roman law" IsCorrectAnswer="0" />
+      <Answer Answer="The US Constitution" IsCorrectAnswer="0" />
+      <Answer Answer="The British North America Act" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="What percentage of Aboriginal peoples in Canada are Metis?">
+      <Answer Answer="5%" IsCorrectAnswer="0" />
+      <Answer Answer="30%" IsCorrectAnswer="1" />
+      <Answer Answer="60%" IsCorrectAnswer="0" />
+      <Answer Answer="15%" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Canada is often called what by poets and songwriters?">
+      <Answer Answer="The Great Democracy" IsCorrectAnswer="0" />
+      <Answer Answer="The Great Satan" IsCorrectAnswer="0" />
+      <Answer Answer="The Great Force" IsCorrectAnswer="0" />
+      <Answer Answer="The Great Dominion" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Which of these is Canada’s only officially bilingual province?">
+      <Answer Answer="New Brunswick" IsCorrectAnswer="1" />
+      <Answer Answer="Manitoba" IsCorrectAnswer="0" />
+      <Answer Answer="Québec" IsCorrectAnswer="0" />
+      <Answer Answer="Ontario" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Among Canadian Christians, what is the most common affiliation?">
+      <Answer Answer="Orthodox" IsCorrectAnswer="0" />
+      <Answer Answer="Catholic" IsCorrectAnswer="1" />
+      <Answer Answer="Methodist" IsCorrectAnswer="0" />
+      <Answer Answer="Baptist" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The majority of French-speaking Canadians live in which province?">
+      <Answer Answer="New Brunswick" IsCorrectAnswer="0" />
+      <Answer Answer="Québec" IsCorrectAnswer="1" />
+      <Answer Answer="Ontario" IsCorrectAnswer="0" />
+      <Answer Answer="Manitoba" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The first constitutional document for Canada became law when?">
+      <Answer Answer="1815" IsCorrectAnswer="0" />
+      <Answer Answer="1962" IsCorrectAnswer="0" />
+      <Answer Answer="1923" IsCorrectAnswer="0" />
+      <Answer Answer="1867" IsCorrectAnswer="1" />
+    </Quiz>
+  </Chapter>
+  <Chapter ChapterId="3" ChapterName="Canada’s History">
+    <Quiz Question="Having beaten the French, the British renamed the area of the Battle of the Plains what?">
+      <Answer Answer="Province of Québec" IsCorrectAnswer="1" />
+      <Answer Answer="Prince Edward Island" IsCorrectAnswer="0" />
+      <Answer Answer="New Britain" IsCorrectAnswer="0" />
+      <Answer Answer="Newfoundland" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The Québec Act was based on…?">
+      <Answer Answer="British criminal law and French civil law" IsCorrectAnswer="1" />
+      <Answer Answer="French criminal law and British civil law" IsCorrectAnswer="0" />
+      <Answer Answer="French criminal law and French civil law" IsCorrectAnswer="0" />
+      <Answer Answer="British criminal law and British civil law" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The commander of the victorious British Army in the Battle of the Plains was…?">
+      <Answer Answer="Arthur Wellesley" IsCorrectAnswer="0" />
+      <Answer Answer="The Duke of Marlborough" IsCorrectAnswer="0" />
+      <Answer Answer="Charles Cadogan" IsCorrectAnswer="0" />
+      <Answer Answer="James Wolfe" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="In what year did the British Parliament pass the Québec act?">
+      <Answer Answer="1774" IsCorrectAnswer="1" />
+      <Answer Answer="1779" IsCorrectAnswer="0" />
+      <Answer Answer="1767" IsCorrectAnswer="0" />
+      <Answer Answer="1781" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="During the American Revolution, Joseph Brant led thousands of Native Americans into Canada who were loyal to the British. Which tribe did they represent?">
+      <Answer Answer="Sioux" IsCorrectAnswer="0" />
+      <Answer Answer="Apache" IsCorrectAnswer="0" />
+      <Answer Answer="Navajo" IsCorrectAnswer="0" />
+      <Answer Answer="Mohawks" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Which of these First Nations tribes did not become allies of the original French settlers?">
+      <Answer Answer="Iroquois" IsCorrectAnswer="1" />
+      <Answer Answer="Huron" IsCorrectAnswer="0" />
+      <Answer Answer="Montagnais" IsCorrectAnswer="0" />
+      <Answer Answer="Algonquin" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Who was the first person to draw a map of the east coast of Canada?">
+      <Answer Answer="Ferdinand Magellan" IsCorrectAnswer="0" />
+      <Answer Answer="Jacques Cartier" IsCorrectAnswer="0" />
+      <Answer Answer="Christopher Columbus" IsCorrectAnswer="0" />
+      <Answer Answer="John Cabot" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Sir John Alexander MacDonald, first Prime Minister of Canada, is represented on what Canadian currency?">
+      <Answer Answer="$10 bill" IsCorrectAnswer="1" />
+      <Answer Answer="$20 bill" IsCorrectAnswer="0" />
+      <Answer Answer="$5 bill" IsCorrectAnswer="0" />
+      <Answer Answer="$1 bill" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which of these Canadian tribes lived by farming and hunting?">
+      <Answer Answer="Sioux" IsCorrectAnswer="0" />
+      <Answer Answer="Dene" IsCorrectAnswer="0" />
+      <Answer Answer="Cree" IsCorrectAnswer="0" />
+      <Answer Answer="Iroquois" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="In what year did the Montréal stock exchange open?">
+      <Answer Answer="1782" IsCorrectAnswer="0" />
+      <Answer Answer="1832" IsCorrectAnswer="1" />
+      <Answer Answer="1802" IsCorrectAnswer="0" />
+      <Answer Answer="1862" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In 1813 American invaders burnt down Government House and the Parliament Buildings in York. What is that city now called?">
+      <Answer Answer="Toronto" IsCorrectAnswer="1" />
+      <Answer Answer="Halifax" IsCorrectAnswer="0" />
+      <Answer Answer="Montréal" IsCorrectAnswer="0" />
+      <Answer Answer="Kingston" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What was the last province to become part of the Dominion of Canada, in 1999?">
+      <Answer Answer="Alberta" IsCorrectAnswer="0" />
+      <Answer Answer="Saskatchewan" IsCorrectAnswer="0" />
+      <Answer Answer="Nunavut" IsCorrectAnswer="1" />
+      <Answer Answer="Yukon" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="To mark a remarkable victory in April 1917, April 9 is now celebrated as…?">
+      <Answer Answer="Ypres Day" IsCorrectAnswer="0" />
+      <Answer Answer="Passchendaele Day" IsCorrectAnswer="0" />
+      <Answer Answer="Vimy Day" IsCorrectAnswer="1" />
+      <Answer Answer="Gallipoli Day" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The name Canada derives from the Iroquois word kanata, which means what?">
+      <Answer Answer="Lake" IsCorrectAnswer="0" />
+      <Answer Answer="Seashore" IsCorrectAnswer="0" />
+      <Answer Answer="Village" IsCorrectAnswer="1" />
+      <Answer Answer="Country" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="British Columbia joined Canada in 1871 when Ottawa promised to build a linking…?">
+      <Answer Answer="Telegraph network" IsCorrectAnswer="0" />
+      <Answer Answer="Canal" IsCorrectAnswer="0" />
+      <Answer Answer="Highway" IsCorrectAnswer="0" />
+      <Answer Answer="Railway" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="The Royal Canadian Mounted Police are now the national police force of Canada. What were they originally called when they were established to help pacify the west of Canada?">
+      <Answer Answer="Her Majesty’s Mounted Police" IsCorrectAnswer="0" />
+      <Answer Answer="The North West Mounted Police" IsCorrectAnswer="1" />
+      <Answer Answer="The Canada Mounted Police" IsCorrectAnswer="0" />
+      <Answer Answer="The Western Provinces Mounted Police" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The Québec Act allowed Catholics in Canada to do what that they could not, at the time, do in Britain?">
+      <Answer Answer="Buy property" IsCorrectAnswer="0" />
+      <Answer Answer="Celebrate mass" IsCorrectAnswer="0" />
+      <Answer Answer="Hold public office" IsCorrectAnswer="1" />
+      <Answer Answer="Get married" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The Atlantic colonies and Upper and Lower Canada were collectively known as what?">
+      <Answer Answer="Greater Canada" IsCorrectAnswer="0" />
+      <Answer Answer="Northern States" IsCorrectAnswer="0" />
+      <Answer Answer="British Canada" IsCorrectAnswer="0" />
+      <Answer Answer="British North America" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="During the Second World War, Canadians with origins in which country were unfairly discriminated against in British Columbia?">
+      <Answer Answer="Japan" IsCorrectAnswer="1" />
+      <Answer Answer="Italy" IsCorrectAnswer="0" />
+      <Answer Answer="Austria" IsCorrectAnswer="0" />
+      <Answer Answer="Germany" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In 1812, in revenge for British interference with their shipping, which country attempted to invade Canada?">
+      <Answer Answer="Spain" IsCorrectAnswer="0" />
+      <Answer Answer="France" IsCorrectAnswer="0" />
+      <Answer Answer="Portugal" IsCorrectAnswer="0" />
+      <Answer Answer="USA" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="In 1608 Samuel de Champlain built a fortress in an area which is now…?">
+      <Answer Answer="Toronto" IsCorrectAnswer="0" />
+      <Answer Answer="Montréal" IsCorrectAnswer="0" />
+      <Answer Answer="Québec city" IsCorrectAnswer="1" />
+      <Answer Answer="Prince Edward Island" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="To defend Canada, the Duke of Wellington chose Bytown as the endpoint of his network of forts. What is it called today?">
+      <Answer Answer="Edmonton" IsCorrectAnswer="0" />
+      <Answer Answer="Toronto" IsCorrectAnswer="0" />
+      <Answer Answer="Montréal" IsCorrectAnswer="0" />
+      <Answer Answer="Ottawa" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="In the D-Day invasion of Western Europe on June 6, 1944, Canadian forces stormed and took which beach from the German army?">
+      <Answer Answer="Sword" IsCorrectAnswer="0" />
+      <Answer Answer="Juno" IsCorrectAnswer="1" />
+      <Answer Answer="Gold" IsCorrectAnswer="0" />
+      <Answer Answer="Omaha" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which were the first group of women to be given the right to vote in federal elections in Canada?">
+      <Answer Answer="Women married to soldiers in World War I" IsCorrectAnswer="0" />
+      <Answer Answer="Women who lost a family member in World War I" IsCorrectAnswer="0" />
+      <Answer Answer="Women serving as nurses in World War I" IsCorrectAnswer="1" />
+      <Answer Answer="Women working in munitions factories in World War I" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which of these Canadian tribes was nomadic?">
+      <Answer Answer="Cree" IsCorrectAnswer="0" />
+      <Answer Answer="Inuit" IsCorrectAnswer="0" />
+      <Answer Answer="Sioux" IsCorrectAnswer="1" />
+      <Answer Answer="Iroquois" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Canada Day, formerly known as Dominion Day, is celebrated to mark the date of the Dominion of Canada formally came into being in 1867, which is…?">
+      <Answer Answer="May 1" IsCorrectAnswer="0" />
+      <Answer Answer="June 1" IsCorrectAnswer="0" />
+      <Answer Answer="August 1" IsCorrectAnswer="0" />
+      <Answer Answer="July 1" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="In the 1920s, it was suggested that what area should become a part of Canada?">
+      <Answer Answer="The Falkland Islands" IsCorrectAnswer="0" />
+      <Answer Answer="Ireland" IsCorrectAnswer="0" />
+      <Answer Answer="British West Indies" IsCorrectAnswer="1" />
+      <Answer Answer="Alaska" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="At the time of the American Revolution, how many Loyalists fled to Canada?">
+      <Answer Answer="30,000+" IsCorrectAnswer="0" />
+      <Answer Answer="50,000+" IsCorrectAnswer="0" />
+      <Answer Answer="40,000+" IsCorrectAnswer="1" />
+      <Answer Answer="60,000+" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which Act of 1791 divided Québec into Upper Canada and Lower Canada?">
+      <Answer Answer="The Constitutional Act" IsCorrectAnswer="1" />
+      <Answer Answer="The Québec Act" IsCorrectAnswer="0" />
+      <Answer Answer="The Division Act" IsCorrectAnswer="0" />
+      <Answer Answer="The Canada Act" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Louis Riel led uprisings against the Dominion of Canada in 1869 and 1885, leading which people?">
+      <Answer Answer="Metis" IsCorrectAnswer="1" />
+      <Answer Answer="Sioux" IsCorrectAnswer="0" />
+      <Answer Answer="Iroquois" IsCorrectAnswer="0" />
+      <Answer Answer="Inuit" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The original French economy of Canada was driven by the trade in what?">
+      <Answer Answer="Beaver pelts" IsCorrectAnswer="1" />
+      <Answer Answer="Pine timber" IsCorrectAnswer="0" />
+      <Answer Answer="Dried fish" IsCorrectAnswer="0" />
+      <Answer Answer="Gold" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The export of which of these was not a major part of the Canadian economy when it was first founded?">
+      <Answer Answer="Fur" IsCorrectAnswer="0" />
+      <Answer Answer="Oil" IsCorrectAnswer="1" />
+      <Answer Answer="Fish" IsCorrectAnswer="0" />
+      <Answer Answer="Timber" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Samuel de Champlain and Pierre de Monts established the first European settlement north of Florida in which year?">
+      <Answer Answer="1598" IsCorrectAnswer="0" />
+      <Answer Answer="1612" IsCorrectAnswer="0" />
+      <Answer Answer="1608" IsCorrectAnswer="0" />
+      <Answer Answer="1604" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="In 1867, which of these provinces was not part of the new country called the Dominion of Canada?">
+      <Answer Answer="Nova Scotia" IsCorrectAnswer="0" />
+      <Answer Answer="Ontario" IsCorrectAnswer="0" />
+      <Answer Answer="New Brunswick" IsCorrectAnswer="0" />
+      <Answer Answer="Newfoundland" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Many slaves escaped from the United States to Canada using…?">
+      <Answer Answer="The Underground Tramway" IsCorrectAnswer="0" />
+      <Answer Answer="The Underground Canal" IsCorrectAnswer="0" />
+      <Answer Answer="The Underground Railroad" IsCorrectAnswer="1" />
+      <Answer Answer="The Underground Highway" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="At the turn of the 19th/20th century, more than 260 Canadians died in which war?">
+      <Answer Answer="The American war" IsCorrectAnswer="0" />
+      <Answer Answer="The Mexican War" IsCorrectAnswer="0" />
+      <Answer Answer="The Boer War" IsCorrectAnswer="1" />
+      <Answer Answer="The Indian war" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In 1885 a Head Tax was established to attempt to block the immigration of which people to Canada?">
+      <Answer Answer="Mexicans" IsCorrectAnswer="0" />
+      <Answer Answer="Chinese" IsCorrectAnswer="1" />
+      <Answer Answer="Africans" IsCorrectAnswer="0" />
+      <Answer Answer="Indians" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="On what day of the year to Canadians remember all those who have served and died for Canada?">
+      <Answer Answer="August 25" IsCorrectAnswer="0" />
+      <Answer Answer="November 11" IsCorrectAnswer="1" />
+      <Answer Answer="July 1" IsCorrectAnswer="0" />
+      <Answer Answer="April 3" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In what year were the majority of female Canadian citizens aged 21 or over given the right to vote in federal elections?">
+      <Answer Answer="1918" IsCorrectAnswer="1" />
+      <Answer Answer="1916" IsCorrectAnswer="0" />
+      <Answer Answer="1917" IsCorrectAnswer="0" />
+      <Answer Answer="1921" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In what year did the Americans attempt to invade Québec?">
+      <Answer Answer="1769" IsCorrectAnswer="0" />
+      <Answer Answer="1775" IsCorrectAnswer="1" />
+      <Answer Answer="1776" IsCorrectAnswer="0" />
+      <Answer Answer="1771" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Out of a population of 8 million, how many Canadians fought in the First World War?">
+      <Answer Answer="100,000" IsCorrectAnswer="0" />
+      <Answer Answer="200,000" IsCorrectAnswer="0" />
+      <Answer Answer="600,000" IsCorrectAnswer="1" />
+      <Answer Answer="400,000" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Why did European explorers call the native people they found in Canada Indians?">
+      <Answer Answer="It was the native people’s word for themselves" IsCorrectAnswer="0" />
+      <Answer Answer="They thought they looked like Indians" IsCorrectAnswer="0" />
+      <Answer Answer="It was short for “Independents”" IsCorrectAnswer="0" />
+      <Answer Answer="They thought they were in the East Indies" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="In what year did King Charles II give the Hudson’s Bay Company exclusive trading rights over the Hudson Bay area?">
+      <Answer Answer="1660" IsCorrectAnswer="0" />
+      <Answer Answer="1675" IsCorrectAnswer="0" />
+      <Answer Answer="1670" IsCorrectAnswer="1" />
+      <Answer Answer="1665" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Sir Wilfred Laurier was the first Canadian Prime Minister…?">
+      <Answer Answer="Who was born in Canada" IsCorrectAnswer="0" />
+      <Answer Answer="All of these" IsCorrectAnswer="0" />
+      <Answer Answer="Who was French Canadian" IsCorrectAnswer="1" />
+      <Answer Answer="Who was an immigrant" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In 1792, black immigrants to Nova Scotia established a colony for free slaves where?">
+      <Answer Answer="Nigeria" IsCorrectAnswer="0" />
+      <Answer Answer="Ethiopia" IsCorrectAnswer="0" />
+      <Answer Answer="Sierra Leone" IsCorrectAnswer="1" />
+      <Answer Answer="Togo" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Who was the first European to explore the St Lawrence River?">
+      <Answer Answer="Jacques Cartier" IsCorrectAnswer="1" />
+      <Answer Answer="William Cormack" IsCorrectAnswer="0" />
+      <Answer Answer="John Cabot" IsCorrectAnswer="0" />
+      <Answer Answer="Christopher Columbus" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The first democratic representative assembly in Canada was elected where?">
+      <Answer Answer="New Brunswick" IsCorrectAnswer="0" />
+      <Answer Answer="Prince Edward Island" IsCorrectAnswer="0" />
+      <Answer Answer="Newfoundland" IsCorrectAnswer="0" />
+      <Answer Answer="Halifax" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="How many Canadian and Newfoundland servicemen served in World War II?">
+      <Answer Answer="1 million+" IsCorrectAnswer="1" />
+      <Answer Answer="500,000" IsCorrectAnswer="0" />
+      <Answer Answer="250,000" IsCorrectAnswer="0" />
+      <Answer Answer="100,000" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which was the first Canadian province to give women the right to vote?">
+      <Answer Answer="Manitoba" IsCorrectAnswer="1" />
+      <Answer Answer="Alberta" IsCorrectAnswer="0" />
+      <Answer Answer="Ontario" IsCorrectAnswer="0" />
+      <Answer Answer="British Columbia" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="How many Canadians lost their lives in the First World War?">
+      <Answer Answer="40,000" IsCorrectAnswer="0" />
+      <Answer Answer="80,000" IsCorrectAnswer="0" />
+      <Answer Answer="20,000" IsCorrectAnswer="0" />
+      <Answer Answer="60,000" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Upper Canada became the first province of the British Empire to start to introduce abolition of slavery in what year?">
+      <Answer Answer="1800" IsCorrectAnswer="0" />
+      <Answer Answer="1807" IsCorrectAnswer="0" />
+      <Answer Answer="1776" IsCorrectAnswer="1" />
+      <Answer Answer="1793" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In which year did the French make peace with the Iroquois?">
+      <Answer Answer="1721" IsCorrectAnswer="0" />
+      <Answer Answer="1741" IsCorrectAnswer="0" />
+      <Answer Answer="1701" IsCorrectAnswer="1" />
+      <Answer Answer="1681" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="France’s empire in North America came to an end at the Battle of the Plains of Abraham in 1759 in which part of Canada?">
+      <Answer Answer="Prince Edward Island" IsCorrectAnswer="0" />
+      <Answer Answer="Québec City" IsCorrectAnswer="1" />
+      <Answer Answer="Montréal" IsCorrectAnswer="0" />
+      <Answer Answer="Hudson’s Bay" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In what year were Upper and Lower Canada united as the Province of Canada?">
+      <Answer Answer="1850" IsCorrectAnswer="0" />
+      <Answer Answer="1860" IsCorrectAnswer="0" />
+      <Answer Answer="1840" IsCorrectAnswer="1" />
+      <Answer Answer="1830" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The first people to set foot in Canada apart from Aboriginal peoples are thought to have come from where?">
+      <Answer Answer="Germany" IsCorrectAnswer="0" />
+      <Answer Answer="England" IsCorrectAnswer="0" />
+      <Answer Answer="Ireland" IsCorrectAnswer="0" />
+      <Answer Answer="Iceland" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Sir John Alexander McDonald, the first Prime Minister of Canada, was born in what country?">
+      <Answer Answer="Wales" IsCorrectAnswer="0" />
+      <Answer Answer="Scotland" IsCorrectAnswer="1" />
+      <Answer Answer="Canada" IsCorrectAnswer="0" />
+      <Answer Answer="England" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Canada became an official title in what year?">
+      <Answer Answer="1791" IsCorrectAnswer="1" />
+      <Answer Answer="1776" IsCorrectAnswer="0" />
+      <Answer Answer="1782" IsCorrectAnswer="0" />
+      <Answer Answer="1796" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Around what time did the word Canada first begin appearing on maps?">
+      <Answer Answer="1450s" IsCorrectAnswer="0" />
+      <Answer Answer="1650s" IsCorrectAnswer="0" />
+      <Answer Answer="1550s" IsCorrectAnswer="1" />
+      <Answer Answer="1750s" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The cities of Edmonton, Langley and Victoria all began as what?">
+      <Answer Answer="Landing stages" IsCorrectAnswer="0" />
+      <Answer Answer="Trading posts" IsCorrectAnswer="1" />
+      <Answer Answer="Army bases" IsCorrectAnswer="0" />
+      <Answer Answer="Religious settlements" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="When European settlers first came to Canada, they caused large numbers of Aboriginal people to die due to…?">
+      <Answer Answer="Warfare" IsCorrectAnswer="0" />
+      <Answer Answer="Disease" IsCorrectAnswer="1" />
+      <Answer Answer="Starvation" IsCorrectAnswer="0" />
+      <Answer Answer="Execution" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The first British North American colony to truly govern itself was…?">
+      <Answer Answer="Nova Scotia" IsCorrectAnswer="1" />
+      <Answer Answer="New Brunswick" IsCorrectAnswer="0" />
+      <Answer Answer="Prince Edward Island" IsCorrectAnswer="0" />
+      <Answer Answer="Newfoundland" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Along with other former countries of the British Empire, Canada is part of which organisation?">
+      <Answer Answer="The Commonwealth of Nations" IsCorrectAnswer="1" />
+      <Answer Answer="The Former Empire Club" IsCorrectAnswer="0" />
+      <Answer Answer="The Colonial Society" IsCorrectAnswer="0" />
+      <Answer Answer="The British Protectorate" IsCorrectAnswer="0" />
+    </Quiz>
+  </Chapter>
+  <Chapter ChapterId="4" ChapterName="Modern Canada">
+    <Quiz Question="In 1975, Canada welcomed over 50,000 refugees from which country?">
+      <Answer Answer="Vietnam" IsCorrectAnswer="1" />
+      <Answer Answer="Hungary" IsCorrectAnswer="0" />
+      <Answer Answer="Ethiopia" IsCorrectAnswer="0" />
+      <Answer Answer="South Africa" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In which year did Donovan Bailey of Canada break the 100m world record and become a double Olympic gold medallist?">
+      <Answer Answer="2000" IsCorrectAnswer="0" />
+      <Answer Answer="1996" IsCorrectAnswer="1" />
+      <Answer Answer="1992" IsCorrectAnswer="0" />
+      <Answer Answer="1988" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is Canada’s official summer sport?">
+      <Answer Answer="Lacrosse" IsCorrectAnswer="1" />
+      <Answer Answer="Soccer" IsCorrectAnswer="0" />
+      <Answer Answer="Hockey" IsCorrectAnswer="0" />
+      <Answer Answer="Football" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Canadian James Naismith invented which sport in 1891?">
+      <Answer Answer="American football" IsCorrectAnswer="0" />
+      <Answer Answer="Korfball" IsCorrectAnswer="0" />
+      <Answer Answer="Basketball" IsCorrectAnswer="1" />
+      <Answer Answer="Baseball" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Perhaps Canada’s best-known contribution to the visual arts is…?">
+      <Answer Answer="The Group of Eight" IsCorrectAnswer="0" />
+      <Answer Answer="The Group of Six" IsCorrectAnswer="0" />
+      <Answer Answer="The Group of Seven" IsCorrectAnswer="1" />
+      <Answer Answer="The Group of Four" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Widely regarded as the greatest hockey player of all time, which Canadian team did Wayne Gretzky play for between 1979 and 1988?">
+      <Answer Answer="Toronto Maple Leafs" IsCorrectAnswer="0" />
+      <Answer Answer="Montréal Canadiens" IsCorrectAnswer="0" />
+      <Answer Answer="Ottawa Senators" IsCorrectAnswer="0" />
+      <Answer Answer="Edmonton Oilers" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Which of these is currently Canada’s largest trade partner?">
+      <Answer Answer="China" IsCorrectAnswer="0" />
+      <Answer Answer="European Union" IsCorrectAnswer="0" />
+      <Answer Answer="United States" IsCorrectAnswer="1" />
+      <Answer Answer="Mexico" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Federal government (un)employment insurance was introduced in Canada in which year?">
+      <Answer Answer="1940" IsCorrectAnswer="1" />
+      <Answer Answer="1930" IsCorrectAnswer="0" />
+      <Answer Answer="1950" IsCorrectAnswer="0" />
+      <Answer Answer="1960" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In which year did Canada pass the threshold that more than 50% of its population had adequate food, shelter, and clothing?">
+      <Answer Answer="1951" IsCorrectAnswer="1" />
+      <Answer Answer="1927" IsCorrectAnswer="0" />
+      <Answer Answer="1957" IsCorrectAnswer="0" />
+      <Answer Answer="1947" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="How many times have referendums produced a negative result for Québec sovereignty?">
+      <Answer Answer="Three times" IsCorrectAnswer="0" />
+      <Answer Answer="Twice" IsCorrectAnswer="1" />
+      <Answer Answer="Never" IsCorrectAnswer="0" />
+      <Answer Answer="Once" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What have Canadians Sidney Altman, Richard Lee Taylor, Michael Smith, Bertram Brockhouse, Gerhardt Hertzberg, and John Polanyi all got in common?">
+      <Answer Answer="They’ve all won Oscars" IsCorrectAnswer="0" />
+      <Answer Answer="They’ve all won Emmys" IsCorrectAnswer="0" />
+      <Answer Answer="They’ve all won Nobel prizes" IsCorrectAnswer="1" />
+      <Answer Answer="They’ve all won Pulitzer prizes" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In what year was an Act passed which guarantees equal access to French and English federal government services?">
+      <Answer Answer="1959" IsCorrectAnswer="0" />
+      <Answer Answer="1979" IsCorrectAnswer="0" />
+      <Answer Answer="1989" IsCorrectAnswer="0" />
+      <Answer Answer="1969" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Which of these was not invented by a Canadian inventor?">
+      <Answer Answer="The telephone" IsCorrectAnswer="0" />
+      <Answer Answer="The television" IsCorrectAnswer="1" />
+      <Answer Answer="The heart pacemaker" IsCorrectAnswer="0" />
+      <Answer Answer="Electric light bulbs" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Canada’s modern energy industry began with the discovery of oil in 1947 in which province?">
+      <Answer Answer="British Columbia" IsCorrectAnswer="0" />
+      <Answer Answer="Alberta" IsCorrectAnswer="1" />
+      <Answer Answer="Québec" IsCorrectAnswer="0" />
+      <Answer Answer="Manitoba" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Who developed the Standard Time Zone system?">
+      <Answer Answer="Sir Sanford Fleming" IsCorrectAnswer="1" />
+      <Answer Answer="Charles Best" IsCorrectAnswer="0" />
+      <Answer Answer="Alexander Graham Bell" IsCorrectAnswer="0" />
+      <Answer Answer="Joseph Bombardier" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Who were the last group of Canadians, in 1960, to get the vote?">
+      <Answer Answer="Chinese Canadians" IsCorrectAnswer="0" />
+      <Answer Answer="Aboriginal Canadians" IsCorrectAnswer="1" />
+      <Answer Answer="Japanese Canadians" IsCorrectAnswer="0" />
+      <Answer Answer="Mexican Canadians" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The period of rapid change in Québec in the 1960s was called what?">
+      <Answer Answer="The quiet revolution" IsCorrectAnswer="1" />
+      <Answer Answer="The Québec revolution" IsCorrectAnswer="0" />
+      <Answer Answer="The French Revolution" IsCorrectAnswer="0" />
+      <Answer Answer="The noisy revolution" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="When was La Francophonie founded?">
+      <Answer Answer="1975" IsCorrectAnswer="0" />
+      <Answer Answer="1947" IsCorrectAnswer="0" />
+      <Answer Answer="1950" IsCorrectAnswer="0" />
+      <Answer Answer="1970" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Canadian company Research in Motion is best known for its invention which communications device?">
+      <Answer Answer="The iPhone" IsCorrectAnswer="0" />
+      <Answer Answer="Galaxy phone" IsCorrectAnswer="0" />
+      <Answer Answer="Nokia phone" IsCorrectAnswer="0" />
+      <Answer Answer="The BlackBerry" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Canadian football teams compete in the Canadian Football League for which trophy?">
+      <Answer Answer="The Grey Cup" IsCorrectAnswer="1" />
+      <Answer Answer="The White Cup" IsCorrectAnswer="0" />
+      <Answer Answer="The Black Cup" IsCorrectAnswer="0" />
+      <Answer Answer="The Red Cup" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Canadians Sir Frederick Banting and Charles Best discovered which revolutionary drug?">
+      <Answer Answer="Warfarin" IsCorrectAnswer="0" />
+      <Answer Answer="Penicillin" IsCorrectAnswer="0" />
+      <Answer Answer="Insulin" IsCorrectAnswer="1" />
+      <Answer Answer="Viagra" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Terry Fox, a British Columbian, tried to run across Canada in the “Marathon of Hope” to raise money for what?">
+      <Answer Answer="Parkinson’s disease research" IsCorrectAnswer="0" />
+      <Answer Answer="Cancer research" IsCorrectAnswer="1" />
+      <Answer Answer="Multiple Sclerosis research" IsCorrectAnswer="0" />
+      <Answer Answer="Heart disease research" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What organizations has Canada joined?">
+      <Answer Answer="NATO" IsCorrectAnswer="0" />
+      <Answer Answer="All of these" IsCorrectAnswer="1" />
+      <Answer Answer="NORAD" IsCorrectAnswer="0" />
+      <Answer Answer="UN" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="When was the Canadian Pension Plan introduced?">
+      <Answer Answer="1920" IsCorrectAnswer="0" />
+      <Answer Answer="1947" IsCorrectAnswer="0" />
+      <Answer Answer="1965" IsCorrectAnswer="1" />
+      <Answer Answer="1940" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which war did Canadian troops fight in as part of a United Nations force between 1950 and 1953?">
+      <Answer Answer="Vietnam" IsCorrectAnswer="0" />
+      <Answer Answer="Laos" IsCorrectAnswer="0" />
+      <Answer Answer="Cambodia" IsCorrectAnswer="0" />
+      <Answer Answer="Korea" IsCorrectAnswer="1" />
+    </Quiz>
+  </Chapter>
+  <Chapter ChapterId="5" ChapterName="How Canadians Govern Themselves">
+    <Quiz Question="Canadian Senators serve until they reach what age?">
+      <Answer Answer="70" IsCorrectAnswer="0" />
+      <Answer Answer="75" IsCorrectAnswer="1" />
+      <Answer Answer="65" IsCorrectAnswer="0" />
+      <Answer Answer="80" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which of these is not part of Parliament?">
+      <Answer Answer="Sovereign" IsCorrectAnswer="0" />
+      <Answer Answer="Senate" IsCorrectAnswer="0" />
+      <Answer Answer="Lieutenant Governor" IsCorrectAnswer="1" />
+      <Answer Answer="House of Commons" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which of these policy areas would come under federal government?">
+      <Answer Answer="Natural resources" IsCorrectAnswer="0" />
+      <Answer Answer="Education" IsCorrectAnswer="0" />
+      <Answer Answer="Currency" IsCorrectAnswer="1" />
+      <Answer Answer="Highways" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The equivalent of the Prime Minister in the federal government is called what in each province?">
+      <Answer Answer="Regional Prime Minister" IsCorrectAnswer="0" />
+      <Answer Answer="Head of Region" IsCorrectAnswer="0" />
+      <Answer Answer="Premier" IsCorrectAnswer="1" />
+      <Answer Answer="Governor" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Who appoints the Lieutenant Governors in Canada?">
+      <Answer Answer="The Sovereign on the advice of the Governor General" IsCorrectAnswer="0" />
+      <Answer Answer="The Governor General on the advice of the Prime Minister" IsCorrectAnswer="1" />
+      <Answer Answer="The House of Commons" IsCorrectAnswer="0" />
+      <Answer Answer="The Prime Minister on the advice of the Governor General" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which part of the Parliament of Canada has members appointed by the Governor General?">
+      <Answer Answer="The Governor’s House" IsCorrectAnswer="0" />
+      <Answer Answer="The House of Lords" IsCorrectAnswer="0" />
+      <Answer Answer="The Senate" IsCorrectAnswer="1" />
+      <Answer Answer="The House of Commons" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Canada is…?">
+      <Answer Answer="All of these" IsCorrectAnswer="1" />
+      <Answer Answer="A federal state" IsCorrectAnswer="0" />
+      <Answer Answer="A Parliamentary democracy" IsCorrectAnswer="0" />
+      <Answer Answer="A constitutional monarchy" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is a law called before it is official?">
+      <Answer Answer="A legislature" IsCorrectAnswer="0" />
+      <Answer Answer="A by-law" IsCorrectAnswer="0" />
+      <Answer Answer="A pre-law" IsCorrectAnswer="0" />
+      <Answer Answer="A bill" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Proposed laws for debate in Parliament are called what?">
+      <Answer Answer="Proposals" IsCorrectAnswer="0" />
+      <Answer Answer="Drafts" IsCorrectAnswer="0" />
+      <Answer Answer="Papers" IsCorrectAnswer="0" />
+      <Answer Answer="Bills" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Which of these is not a branch of Canadian government?">
+      <Answer Answer="The judiciary" IsCorrectAnswer="0" />
+      <Answer Answer="The legislature" IsCorrectAnswer="0" />
+      <Answer Answer="The monarchy" IsCorrectAnswer="1" />
+      <Answer Answer="The executive" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Members of the House of Commons are responsible for…?">
+      <Answer Answer="All of these" IsCorrectAnswer="1" />
+      <Answer Answer="Passing laws" IsCorrectAnswer="0" />
+      <Answer Answer="Approving expenditure" IsCorrectAnswer="0" />
+      <Answer Answer="Keeping government accountable" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Traditionally, Canada holds Parliamentary elections every…?">
+      <Answer Answer="4 years" IsCorrectAnswer="1" />
+      <Answer Answer="3 years" IsCorrectAnswer="0" />
+      <Answer Answer="5 years" IsCorrectAnswer="0" />
+      <Answer Answer="6 years" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Who grants Royal assent for bills to become law on behalf of the Sovereign?">
+      <Answer Answer="The Senate" IsCorrectAnswer="0" />
+      <Answer Answer="The Prime Minister" IsCorrectAnswer="0" />
+      <Answer Answer="The Governor General" IsCorrectAnswer="1" />
+      <Answer Answer="The House of Commons" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Lieutenant Governors usually serve terms of…?">
+      <Answer Answer="3 years" IsCorrectAnswer="0" />
+      <Answer Answer="5 years" IsCorrectAnswer="1" />
+      <Answer Answer="8 years" IsCorrectAnswer="0" />
+      <Answer Answer="4 years" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="How old do you have to be to vote in Canada?">
+      <Answer Answer="18" IsCorrectAnswer="1" />
+      <Answer Answer="19" IsCorrectAnswer="0" />
+      <Answer Answer="17" IsCorrectAnswer="0" />
+      <Answer Answer="21" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="A provincial legislature comprises the elected Assembly and…?">
+      <Answer Answer="A regional Prime Minister" IsCorrectAnswer="0" />
+      <Answer Answer="A Governor General" IsCorrectAnswer="0" />
+      <Answer Answer="A Lieutenant Governor" IsCorrectAnswer="1" />
+      <Answer Answer="A regional President" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="How many judges are there in the Supreme Court of Canada?">
+      <Answer Answer="Six" IsCorrectAnswer="0" />
+      <Answer Answer="Twelve" IsCorrectAnswer="0" />
+      <Answer Answer="Seven" IsCorrectAnswer="0" />
+      <Answer Answer="Nine" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Who selects Canada’s Cabinet ministers?">
+      <Answer Answer="The House of Commons" IsCorrectAnswer="0" />
+      <Answer Answer="The Senate" IsCorrectAnswer="0" />
+      <Answer Answer="The Sovereign" IsCorrectAnswer="0" />
+      <Answer Answer="The Prime Minister" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Which of these terms describe the Canadian Prime Minister?">
+      <Answer Answer="Head of parliament" IsCorrectAnswer="0" />
+      <Answer Answer="Head of government" IsCorrectAnswer="1" />
+      <Answer Answer="Head of state" IsCorrectAnswer="0" />
+      <Answer Answer="Head of Senate" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The Canadian Government must resign if they lose what sort of vote in Parliament?">
+      <Answer Answer="Any sort of vote" IsCorrectAnswer="0" />
+      <Answer Answer="A health bill" IsCorrectAnswer="0" />
+      <Answer Answer="An education bill vote" IsCorrectAnswer="0" />
+      <Answer Answer="A non-confidence vote" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Who appoints the Canadian Governor General?">
+      <Answer Answer="The House of Commons" IsCorrectAnswer="0" />
+      <Answer Answer="The Canadian electorate" IsCorrectAnswer="0" />
+      <Answer Answer="The Prime Minister on the advice of the Sovereign" IsCorrectAnswer="0" />
+      <Answer Answer="The Sovereign on the advice of the Prime Minister" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="How many times must a bill be “read” in the House of Commons before it becomes law?">
+      <Answer Answer="Twice" IsCorrectAnswer="0" />
+      <Answer Answer="Three times" IsCorrectAnswer="1" />
+      <Answer Answer="Four times" IsCorrectAnswer="0" />
+      <Answer Answer="Once" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The elected part of the Parliament of Canada is called what?">
+      <Answer Answer="The House of Commons" IsCorrectAnswer="1" />
+      <Answer Answer="The House of Representatives" IsCorrectAnswer="0" />
+      <Answer Answer="The House of Lords" IsCorrectAnswer="0" />
+      <Answer Answer="The Senate" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which of these policy areas would come under the control of the provinces?">
+      <Answer Answer="Navigation" IsCorrectAnswer="0" />
+      <Answer Answer="Interprovincial trade" IsCorrectAnswer="0" />
+      <Answer Answer="Citizenship" IsCorrectAnswer="0" />
+      <Answer Answer="Civil rights" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="The Canadian Governor General usually serves a term of…?">
+      <Answer Answer="10 years" IsCorrectAnswer="0" />
+      <Answer Answer="3 years" IsCorrectAnswer="0" />
+      <Answer Answer="8 years" IsCorrectAnswer="0" />
+      <Answer Answer="5 years" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="The provinces are governed by…?">
+      <Answer Answer="Federal government" IsCorrectAnswer="0" />
+      <Answer Answer="Plebiscites" IsCorrectAnswer="0" />
+      <Answer Answer="Legislative assemblies" IsCorrectAnswer="1" />
+      <Answer Answer="Direct rule" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The federal government sits where?">
+      <Answer Answer="Ottawa" IsCorrectAnswer="1" />
+      <Answer Answer="Vancouver" IsCorrectAnswer="0" />
+      <Answer Answer="Toronto" IsCorrectAnswer="0" />
+      <Answer Answer="Montréal" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="How many other nations is Canada linked to through the Commonwealth?">
+      <Answer Answer="43" IsCorrectAnswer="0" />
+      <Answer Answer="53" IsCorrectAnswer="1" />
+      <Answer Answer="50" IsCorrectAnswer="0" />
+      <Answer Answer="55" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In the three territories, the federal government is represented by what?">
+      <Answer Answer="A Territorial Prime Minister" IsCorrectAnswer="0" />
+      <Answer Answer="A Regional Governor" IsCorrectAnswer="0" />
+      <Answer Answer="A Head of Territory" IsCorrectAnswer="0" />
+      <Answer Answer="A Commissioner" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="To become law in Canada, a bill has to…?">
+      <Answer Answer="Be given Royal assent" IsCorrectAnswer="0" />
+      <Answer Answer="All of these" IsCorrectAnswer="1" />
+      <Answer Answer="Be passed by the House of Commons" IsCorrectAnswer="0" />
+      <Answer Answer="Be passed by the Senate" IsCorrectAnswer="0" />
+    </Quiz>
+  </Chapter>
+  <Chapter ChapterId="6" ChapterName="Federal Elections">
+    <Quiz Question="Who has the right to demand that you tell them how you voted in an election?">
+      <Answer Answer="The sovereign" IsCorrectAnswer="0" />
+      <Answer Answer="Your MP" IsCorrectAnswer="0" />
+      <Answer Answer="The Prime Minister" IsCorrectAnswer="0" />
+      <Answer Answer="Nobody" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Which of these does not fall under the responsibilities of a municipal government?">
+      <Answer Answer="Transportation" IsCorrectAnswer="0" />
+      <Answer Answer="Agriculture" IsCorrectAnswer="1" />
+      <Answer Answer="Recycling Programs" IsCorrectAnswer="0" />
+      <Answer Answer="Snow removal" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="To vote in an election or referendum, how far must you register in advance?">
+      <Answer Answer="Two days in advance" IsCorrectAnswer="0" />
+      <Answer Answer="You can register on the day" IsCorrectAnswer="1" />
+      <Answer Answer="Three weeks in advance" IsCorrectAnswer="0" />
+      <Answer Answer="Four weeks in advance" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Who is responsible for running government departments?">
+      <Answer Answer="Cabinet ministers" IsCorrectAnswer="1" />
+      <Answer Answer="Lieutenant Governors" IsCorrectAnswer="0" />
+      <Answer Answer="Senators" IsCorrectAnswer="0" />
+      <Answer Answer="Members of Parliament" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is the piece of paper you vote on called?">
+      <Answer Answer="A voter information card" IsCorrectAnswer="0" />
+      <Answer Answer="A ballot" IsCorrectAnswer="1" />
+      <Answer Answer="A riding" IsCorrectAnswer="0" />
+      <Answer Answer="A voter’s list" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The Prime Minister and government ministers collectively are called what?">
+      <Answer Answer="The Collective" IsCorrectAnswer="0" />
+      <Answer Answer="The Board" IsCorrectAnswer="0" />
+      <Answer Answer="The Rulers" IsCorrectAnswer="0" />
+      <Answer Answer="The Cabinet" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="What are the laws passed by municipal governments that only affect the local community?">
+      <Answer Answer="Regional laws" IsCorrectAnswer="0" />
+      <Answer Answer="Provincial laws" IsCorrectAnswer="0" />
+      <Answer Answer="Bylaws" IsCorrectAnswer="1" />
+      <Answer Answer="Town laws" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="﻿In Federal Elections, Canadians vote for whom?">
+      <Answer Answer="Members of the House of Commons" IsCorrectAnswer="1" />
+      <Answer Answer="Members of the Senate" IsCorrectAnswer="0" />
+      <Answer Answer="The Prime Minister" IsCorrectAnswer="0" />
+      <Answer Answer="The Governor General" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In order to run in a federal election you must be at least what age?">
+      <Answer Answer="17" IsCorrectAnswer="0" />
+      <Answer Answer="18" IsCorrectAnswer="1" />
+      <Answer Answer="21" IsCorrectAnswer="0" />
+      <Answer Answer="19" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="How many electoral districts (a.k.a. ridings or constituencies) are there in Canada?">
+      <Answer Answer="208" IsCorrectAnswer="0" />
+      <Answer Answer="108" IsCorrectAnswer="0" />
+      <Answer Answer="308" IsCorrectAnswer="1" />
+      <Answer Answer="408" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="How many people can run for office in a single electoral district?">
+      <Answer Answer="12" IsCorrectAnswer="0" />
+      <Answer Answer="24" IsCorrectAnswer="0" />
+      <Answer Answer="As many as apply" IsCorrectAnswer="1" />
+      <Answer Answer="48" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="To be valid, your vote has to consist of what drawn in the circle next to the name of your chosen candidate?">
+      <Answer Answer="Y" IsCorrectAnswer="0" />
+      <Answer Answer="X" IsCorrectAnswer="1" />
+      <Answer Answer="Any symbol" IsCorrectAnswer="0" />
+      <Answer Answer="A tick" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="If you can’t vote on election day, how can you vote?">
+      <Answer Answer="After the election" IsCorrectAnswer="0" />
+      <Answer Answer="In advance polls or special ballot" IsCorrectAnswer="1" />
+      <Answer Answer="On the Internet" IsCorrectAnswer="0" />
+      <Answer Answer="You can’t" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which of these maintains the National Register of Electors?">
+      <Answer Answer="Provincial legislatures" IsCorrectAnswer="0" />
+      <Answer Answer="The House of Commons" IsCorrectAnswer="0" />
+      <Answer Answer="Elections Canada" IsCorrectAnswer="1" />
+      <Answer Answer="The Governor General" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Federal elections are held on the third Monday in which month?">
+      <Answer Answer="March" IsCorrectAnswer="0" />
+      <Answer Answer="November" IsCorrectAnswer="0" />
+      <Answer Answer="June" IsCorrectAnswer="0" />
+      <Answer Answer="October" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="What do you call the political party with the second largest number of seats in the federal government?">
+      <Answer Answer="Majority government" IsCorrectAnswer="0" />
+      <Answer Answer="Minority government" IsCorrectAnswer="0" />
+      <Answer Answer="The Cabinet" IsCorrectAnswer="0" />
+      <Answer Answer="Her Majesty’s Loyal Opposition" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Which of these is not a major political party in Canada?">
+      <Answer Answer="The Liberal Party" IsCorrectAnswer="0" />
+      <Answer Answer="The Conservative Party" IsCorrectAnswer="0" />
+      <Answer Answer="The New Democratic Party" IsCorrectAnswer="0" />
+      <Answer Answer="The Labour Party" IsCorrectAnswer="1" />
+    </Quiz>
+  </Chapter>
+  <Chapter ChapterId="7" ChapterName="The Justice System">
+    <Quiz Question="Canadian law applies to everyone, except…?">
+      <Answer Answer="Police officers" IsCorrectAnswer="0" />
+      <Answer Answer="There are no exceptions" IsCorrectAnswer="1" />
+      <Answer Answer="Members of Parliament" IsCorrectAnswer="0" />
+      <Answer Answer="Judges" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Whose role is it to settle disagreements or conflicts?">
+      <Answer Answer="The municipality’s" IsCorrectAnswer="0" />
+      <Answer Answer="The court’s" IsCorrectAnswer="1" />
+      <Answer Answer="The police force’s" IsCorrectAnswer="0" />
+      <Answer Answer="The city government’s" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The basis of the Canadian justice system is what?">
+      <Answer Answer="The presumption of innocence" IsCorrectAnswer="1" />
+      <Answer Answer="The presumption of guilt" IsCorrectAnswer="0" />
+      <Answer Answer="The balance of probabilities" IsCorrectAnswer="0" />
+      <Answer Answer="The burden of proof" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which provinces have their own police forces?">
+      <Answer Answer="British Columbia and Manitoba" IsCorrectAnswer="0" />
+      <Answer Answer="Alberta and Nova Scotia" IsCorrectAnswer="0" />
+      <Answer Answer="Ontario and Québec" IsCorrectAnswer="1" />
+      <Answer Answer="Prince Edward Island and Saskatchewan" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Who are the federal police in Canada?">
+      <Answer Answer="CSIS" IsCorrectAnswer="0" />
+      <Answer Answer="The Canadian Army" IsCorrectAnswer="0" />
+      <Answer Answer="The Canadian Rangers" IsCorrectAnswer="0" />
+      <Answer Answer="The RCMP" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Small Claims Courts deal with what?">
+      <Answer Answer="Civil cases" IsCorrectAnswer="1" />
+      <Answer Answer="Minor crime" IsCorrectAnswer="0" />
+      <Answer Answer="Traffic offences" IsCorrectAnswer="0" />
+      <Answer Answer="Divorces" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In which of these situations can you turn to the police for help?">
+      <Answer Answer="All of them" IsCorrectAnswer="1" />
+      <Answer Answer="If you have witnessed a crime" IsCorrectAnswer="0" />
+      <Answer Answer="If there’s been an accident" IsCorrectAnswer="0" />
+      <Answer Answer="If someone is missing" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The Canadian government must respect every citizen’s legal rights…?">
+      <Answer Answer="Except in emergencies" IsCorrectAnswer="0" />
+      <Answer Answer="Unless they admit guilt" IsCorrectAnswer="0" />
+      <Answer Answer="When convenient" IsCorrectAnswer="0" />
+      <Answer Answer="At all times" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Who makes the laws in Canada?">
+      <Answer Answer="The legislature" IsCorrectAnswer="1" />
+      <Answer Answer="The police" IsCorrectAnswer="0" />
+      <Answer Answer="The courts" IsCorrectAnswer="0" />
+      <Answer Answer="The Sovereign" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="If you can’t afford to pay for a lawyer when you are charged with a crime…?">
+      <Answer Answer="You will have to borrow the money" IsCorrectAnswer="0" />
+      <Answer Answer="You will be provided with one" IsCorrectAnswer="1" />
+      <Answer Answer="You will be found guilty" IsCorrectAnswer="0" />
+      <Answer Answer="You must represent yourself" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The highest court in Canada is what?">
+      <Answer Answer="The Federal Court" IsCorrectAnswer="0" />
+      <Answer Answer="The Queen’s Bench" IsCorrectAnswer="0" />
+      <Answer Answer="The Provincial Supreme Court" IsCorrectAnswer="0" />
+      <Answer Answer="The Supreme Court" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Whose job is it to enforce the laws of Canada?">
+      <Answer Answer="Court" IsCorrectAnswer="0" />
+      <Answer Answer="Police" IsCorrectAnswer="1" />
+      <Answer Answer="MP" IsCorrectAnswer="0" />
+      <Answer Answer="Judge" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The purpose of Canadian law is to do what?">
+      <Answer Answer="To express Canadian values and beliefs" IsCorrectAnswer="0" />
+      <Answer Answer="Help settle disputes" IsCorrectAnswer="0" />
+      <Answer Answer="Give order to society" IsCorrectAnswer="0" />
+      <Answer Answer="All these things" IsCorrectAnswer="1" />
+    </Quiz>
+  </Chapter>
+  <Chapter ChapterId="8" ChapterName="Canadian Symbols">
+    <Quiz Question="Red and white have been the national colours of Canada since…?">
+      <Answer Answer="1921" IsCorrectAnswer="1" />
+      <Answer Answer="1931" IsCorrectAnswer="0" />
+      <Answer Answer="1901" IsCorrectAnswer="0" />
+      <Answer Answer="1911" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="On what day of the year do Canadians celebrate Sir John A. McDonald Day?">
+      <Answer Answer="July 1" IsCorrectAnswer="0" />
+      <Answer Answer="January 1" IsCorrectAnswer="0" />
+      <Answer Answer="November 11" IsCorrectAnswer="0" />
+      <Answer Answer="January 11" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="The red-white-red pattern of the Canadian flag comes from the flag of where?">
+      <Answer Answer="The Royal Military College, Kingston" IsCorrectAnswer="1" />
+      <Answer Answer="England" IsCorrectAnswer="0" />
+      <Answer Answer="The Royal Canadian Mounted Police" IsCorrectAnswer="0" />
+      <Answer Answer="The British Royal Navy" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Curling was introduced into Canada by immigrants from what country?">
+      <Answer Answer="Iceland" IsCorrectAnswer="0" />
+      <Answer Answer="Scotland" IsCorrectAnswer="1" />
+      <Answer Answer="Sweden" IsCorrectAnswer="0" />
+      <Answer Answer="Norway" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The Maple Leaf has appeared on Canadian military uniforms since when?">
+      <Answer Answer="The 1920s" IsCorrectAnswer="0" />
+      <Answer Answer="The 1820s" IsCorrectAnswer="0" />
+      <Answer Answer="The 1850s" IsCorrectAnswer="1" />
+      <Answer Answer="The 1880s" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The Books of Remembrance in the Peace Tower hold the names of…?">
+      <Answer Answer="All soldiers who have died on service" IsCorrectAnswer="0" />
+      <Answer Answer="All of these" IsCorrectAnswer="1" />
+      <Answer Answer="All sailors who have died on service" IsCorrectAnswer="0" />
+      <Answer Answer="All airmen who have died on service" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which sport has more registered players in Canada than any other?">
+      <Answer Answer="Soccer" IsCorrectAnswer="1" />
+      <Answer Answer="Tennis" IsCorrectAnswer="0" />
+      <Answer Answer="Athletics" IsCorrectAnswer="0" />
+      <Answer Answer="Hockey" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The Canadian national motto, A mari usque ad mare, means what?">
+      <Answer Answer="Mary protects us" IsCorrectAnswer="0" />
+      <Answer Answer="The Maple Leaf forever" IsCorrectAnswer="0" />
+      <Answer Answer="Always on horseback" IsCorrectAnswer="0" />
+      <Answer Answer="From sea to sea" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Who was the first constitutional monarch of Canada?">
+      <Answer Answer="Queen Victoria" IsCorrectAnswer="1" />
+      <Answer Answer="Queen Elizabeth II" IsCorrectAnswer="0" />
+      <Answer Answer="King George III" IsCorrectAnswer="0" />
+      <Answer Answer="King Edward VII" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The highest award for bravery available to Canadian service people is…?">
+      <Answer Answer="The Edward Cross" IsCorrectAnswer="0" />
+      <Answer Answer="The Victoria Cross" IsCorrectAnswer="1" />
+      <Answer Answer="The George Cross" IsCorrectAnswer="0" />
+      <Answer Answer="The Charles Cross" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Canadian Labour Day is on the first Monday of which month?">
+      <Answer Answer="January" IsCorrectAnswer="0" />
+      <Answer Answer="September" IsCorrectAnswer="1" />
+      <Answer Answer="October" IsCorrectAnswer="0" />
+      <Answer Answer="August" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The National Hockey League championship is played for what?">
+      <Answer Answer="The Laurel Cup" IsCorrectAnswer="0" />
+      <Answer Answer="The Stanley Cup" IsCorrectAnswer="1" />
+      <Answer Answer="The Albert Cup" IsCorrectAnswer="0" />
+      <Answer Answer="The Frederick Cup" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is the most popular spectator sport in Canada?">
+      <Answer Answer="Soccer" IsCorrectAnswer="0" />
+      <Answer Answer="Curling" IsCorrectAnswer="0" />
+      <Answer Answer="Hockey" IsCorrectAnswer="1" />
+      <Answer Answer="Canadian football" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The last Canadian, up to the present day, to the awarded the Victoria Cross was in which year?">
+      <Answer Answer="1945" IsCorrectAnswer="1" />
+      <Answer Answer="1918" IsCorrectAnswer="0" />
+      <Answer Answer="1902" IsCorrectAnswer="0" />
+      <Answer Answer="1953" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="How long has the crown been a symbol of state in Canada?">
+      <Answer Answer="300 years" IsCorrectAnswer="0" />
+      <Answer Answer="200 years" IsCorrectAnswer="0" />
+      <Answer Answer="500 years" IsCorrectAnswer="0" />
+      <Answer Answer="400 years" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="In 1967 Canada began its own honours system with what?">
+      <Answer Answer="The Canadian Medal" IsCorrectAnswer="0" />
+      <Answer Answer="The Canadian Knighthood" IsCorrectAnswer="0" />
+      <Answer Answer="The Cross of Canada" IsCorrectAnswer="0" />
+      <Answer Answer="The Order of Canada" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="The current Canadian flag has been in use since when?">
+      <Answer Answer="1975" IsCorrectAnswer="0" />
+      <Answer Answer="1945" IsCorrectAnswer="0" />
+      <Answer Answer="1955" IsCorrectAnswer="0" />
+      <Answer Answer="1965" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="The Canadian coat of arms does not contain a symbol from which country?">
+      <Answer Answer="Scotland" IsCorrectAnswer="0" />
+      <Answer Answer="Wales" IsCorrectAnswer="1" />
+      <Answer Answer="Ireland" IsCorrectAnswer="0" />
+      <Answer Answer="France" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The beaver was first used as a symbol in Canada by…?">
+      <Answer Answer="The Hudson’s Bay Company" IsCorrectAnswer="1" />
+      <Answer Answer="The province of Saskatchewan" IsCorrectAnswer="0" />
+      <Answer Answer="The city of Montréal" IsCorrectAnswer="0" />
+      <Answer Answer="The St.Jean Baptiste Society" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Canada has been a constitutional monarchy in its own right since when?">
+      <Answer Answer="1815" IsCorrectAnswer="0" />
+      <Answer Answer="1701" IsCorrectAnswer="0" />
+      <Answer Answer="1867" IsCorrectAnswer="1" />
+      <Answer Answer="1918" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The Peace Tower in the Parliament Buildings was built to commemorate…?">
+      <Answer Answer="World War II" IsCorrectAnswer="0" />
+      <Answer Answer="The Boer War" IsCorrectAnswer="0" />
+      <Answer Answer="The Korean War" IsCorrectAnswer="0" />
+      <Answer Answer="World War I" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="What is the official summer sport of Canada?">
+      <Answer Answer="Swimming" IsCorrectAnswer="0" />
+      <Answer Answer="Cricket" IsCorrectAnswer="0" />
+      <Answer Answer="Tennis" IsCorrectAnswer="0" />
+      <Answer Answer="Lacrosse" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="The Canadian national anthem is called what?">
+      <Answer Answer="God Bless Canada" IsCorrectAnswer="0" />
+      <Answer Answer="God Save the Queen" IsCorrectAnswer="0" />
+      <Answer Answer="O Canada" IsCorrectAnswer="1" />
+      <Answer Answer="Canada Fair" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In what century did French Canadians adapt maple leaves as their symbol?">
+      <Answer Answer="16th" IsCorrectAnswer="1" />
+      <Answer Answer="18th" IsCorrectAnswer="0" />
+      <Answer Answer="17th" IsCorrectAnswer="0" />
+      <Answer Answer="15th" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which Canadian symbol can be found on the five cent coin?">
+      <Answer Answer="The snow goose" IsCorrectAnswer="0" />
+      <Answer Answer="The moose" IsCorrectAnswer="0" />
+      <Answer Answer="The beaver" IsCorrectAnswer="1" />
+      <Answer Answer="The grizzly bear" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What’s Canada’s second most popular sport?">
+      <Answer Answer="Hockey" IsCorrectAnswer="0" />
+      <Answer Answer="Canadian football" IsCorrectAnswer="1" />
+      <Answer Answer="Skiing" IsCorrectAnswer="0" />
+      <Answer Answer="Curling" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The highest prize in women’s hockey in Canada is what?">
+      <Answer Answer="The May Cup" IsCorrectAnswer="0" />
+      <Answer Answer="The Ottawa Cup" IsCorrectAnswer="0" />
+      <Answer Answer="The Hammond Cup" IsCorrectAnswer="0" />
+      <Answer Answer="The Clarkson Cup" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Canadian Thanksgiving Day is on the second Monday of which month?">
+      <Answer Answer="July" IsCorrectAnswer="0" />
+      <Answer Answer="April" IsCorrectAnswer="0" />
+      <Answer Answer="October" IsCorrectAnswer="1" />
+      <Answer Answer="September" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which of these French symbols was adopted into Québec’s own flag in 1940?">
+      <Answer Answer="Fleur-de-lys" IsCorrectAnswer="1" />
+      <Answer Answer="The cross of Lorraine" IsCorrectAnswer="0" />
+      <Answer Answer="French crown" IsCorrectAnswer="0" />
+      <Answer Answer="A lion" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Before the current Canadian flag, what was used for around a century before?">
+      <Answer Answer="A plain red banner" IsCorrectAnswer="0" />
+      <Answer Answer="A modified Stars &amp; Stripes" IsCorrectAnswer="0" />
+      <Answer Answer="The Canadian Red Ensign" IsCorrectAnswer="1" />
+      <Answer Answer="The Union Jack" IsCorrectAnswer="0" />
+    </Quiz>
+  </Chapter>
+  <Chapter ChapterId="9" ChapterName="Canada’s Economy">
+    <Quiz Question="How does Canada rate in comparison to other world economies?">
+      <Answer Answer="Top 20" IsCorrectAnswer="0" />
+      <Answer Answer="Top 10" IsCorrectAnswer="1" />
+      <Answer Answer="Top 5" IsCorrectAnswer="0" />
+      <Answer Answer="Top 25" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In 1994, which state entered into a free-trade agreement with Canada?">
+      <Answer Answer="Brazil" IsCorrectAnswer="0" />
+      <Answer Answer="Mexico" IsCorrectAnswer="1" />
+      <Answer Answer="Guatemala" IsCorrectAnswer="0" />
+      <Answer Answer="El Salvador" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Canada entered into a free trade agreement with the United States in which year?">
+      <Answer Answer="1978" IsCorrectAnswer="0" />
+      <Answer Answer="1988" IsCorrectAnswer="1" />
+      <Answer Answer="1998" IsCorrectAnswer="0" />
+      <Answer Answer="2008" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Is Canada part of the G8?">
+      <Answer Answer="Next year" IsCorrectAnswer="0" />
+      <Answer Answer="Not anymore" IsCorrectAnswer="0" />
+      <Answer Answer="No" IsCorrectAnswer="0" />
+      <Answer Answer="Yes" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="75% of Canadians now have jobs in which industry?">
+      <Answer Answer="Manufacturing" IsCorrectAnswer="0" />
+      <Answer Answer="Services" IsCorrectAnswer="1" />
+      <Answer Answer="Natural resources" IsCorrectAnswer="0" />
+      <Answer Answer="Information technology" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What are the three main types of industry in Canada?">
+      <Answer Answer="Service, communications, and hydroelectricity" IsCorrectAnswer="0" />
+      <Answer Answer="Natural resources, service, and communications" IsCorrectAnswer="0" />
+      <Answer Answer="Service, manufacturing, and natural resources" IsCorrectAnswer="1" />
+      <Answer Answer="Natural resources, computer technology, and automotive" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Canada’s economy is mainly driven by what?">
+      <Answer Answer="Services" IsCorrectAnswer="0" />
+      <Answer Answer="Finance" IsCorrectAnswer="0" />
+      <Answer Answer="Tourism" IsCorrectAnswer="0" />
+      <Answer Answer="Trade" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="How much of Canadian exports go to the USA?">
+      <Answer Answer="75%" IsCorrectAnswer="1" />
+      <Answer Answer="25%" IsCorrectAnswer="0" />
+      <Answer Answer="50%" IsCorrectAnswer="0" />
+      <Answer Answer="10%" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Who is Canada’s biggest trading partner?">
+      <Answer Answer="China" IsCorrectAnswer="0" />
+      <Answer Answer="The United States" IsCorrectAnswer="1" />
+      <Answer Answer="Mexico" IsCorrectAnswer="0" />
+      <Answer Answer="The United Kingdom" IsCorrectAnswer="0" />
+    </Quiz>
+  </Chapter>
+  <Chapter ChapterId="10" ChapterName="Canada’s Regions">
+    <Quiz Question="Prince Edward Island is most famous, in terms of its agriculture, for the production of what?">
+      <Answer Answer="Cabbages" IsCorrectAnswer="0" />
+      <Answer Answer="Onions" IsCorrectAnswer="0" />
+      <Answer Answer="Potatoes" IsCorrectAnswer="1" />
+      <Answer Answer="Carrots" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The largest port in Canada is in which province?">
+      <Answer Answer="Yukon Territory" IsCorrectAnswer="0" />
+      <Answer Answer="British Columbia" IsCorrectAnswer="1" />
+      <Answer Answer="Newfoundland and Labrador" IsCorrectAnswer="0" />
+      <Answer Answer="Nova Scotia" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Between them, Ontario and Québec produce what percentage of Canadian manufactured goods?">
+      <Answer Answer="15%" IsCorrectAnswer="0" />
+      <Answer Answer="25%" IsCorrectAnswer="0" />
+      <Answer Answer="75%" IsCorrectAnswer="1" />
+      <Answer Answer="50%" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Ontario contains more than what proportion of Canadian citizens?">
+      <Answer Answer="One quarter" IsCorrectAnswer="0" />
+      <Answer Answer="Three quarters" IsCorrectAnswer="0" />
+      <Answer Answer="One third" IsCorrectAnswer="1" />
+      <Answer Answer="One half" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In the summertime in the northern territories, how long can daylight last?">
+      <Answer Answer="20 hours" IsCorrectAnswer="0" />
+      <Answer Answer="22 hours" IsCorrectAnswer="0" />
+      <Answer Answer="18 hours" IsCorrectAnswer="0" />
+      <Answer Answer="24 hours" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Which province, with 40% of the arable land in Canada, was once known as “the breadbasket of the world”?">
+      <Answer Answer="British Columbia" IsCorrectAnswer="0" />
+      <Answer Answer="Manitoba" IsCorrectAnswer="0" />
+      <Answer Answer="Saskatchewan" IsCorrectAnswer="1" />
+      <Answer Answer="Alberta" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is the capital of Yukon Territory?">
+      <Answer Answer="St John’s" IsCorrectAnswer="0" />
+      <Answer Answer="Whitehorse" IsCorrectAnswer="1" />
+      <Answer Answer="Yellowknife" IsCorrectAnswer="0" />
+      <Answer Answer="Fredericton" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which province has the largest Aboriginal population in Canada?">
+      <Answer Answer="British Columbia" IsCorrectAnswer="0" />
+      <Answer Answer="Manitoba" IsCorrectAnswer="1" />
+      <Answer Answer="Saskatchewan" IsCorrectAnswer="0" />
+      <Answer Answer="Alberta" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is the capital of Manitoba?">
+      <Answer Answer="Victoria" IsCorrectAnswer="0" />
+      <Answer Answer="Winnipeg" IsCorrectAnswer="1" />
+      <Answer Answer="Regina" IsCorrectAnswer="0" />
+      <Answer Answer="Edmonton" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is the capital of Prince Edward Island?">
+      <Answer Answer="Charlottetown" IsCorrectAnswer="1" />
+      <Answer Answer="Halifax" IsCorrectAnswer="0" />
+      <Answer Answer="Fredericton" IsCorrectAnswer="0" />
+      <Answer Answer="Yellowknife" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Name the capital of Newfoundland and Labrador">
+      <Answer Answer="Edmonton" IsCorrectAnswer="0" />
+      <Answer Answer="St John’s" IsCorrectAnswer="1" />
+      <Answer Answer="Regina" IsCorrectAnswer="0" />
+      <Answer Answer="Winnipeg" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is the capital of Saskatchewan?">
+      <Answer Answer="Edmonton" IsCorrectAnswer="0" />
+      <Answer Answer="Regina" IsCorrectAnswer="1" />
+      <Answer Answer="St John’s" IsCorrectAnswer="0" />
+      <Answer Answer="Toronto" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In terms of land mass, where does Canada rank amongst the countries of the world?">
+      <Answer Answer="Second" IsCorrectAnswer="1" />
+      <Answer Answer="First" IsCorrectAnswer="0" />
+      <Answer Answer="Third" IsCorrectAnswer="0" />
+      <Answer Answer="Fourth" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which Canadian province produces more oil and gas than any other in Canada?">
+      <Answer Answer="Manitoba" IsCorrectAnswer="0" />
+      <Answer Answer="British Columbia" IsCorrectAnswer="0" />
+      <Answer Answer="Alberta" IsCorrectAnswer="1" />
+      <Answer Answer="Saskatchewan" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="New Brunswick is situated in which mountain range?">
+      <Answer Answer="The Pacific Cordillera" IsCorrectAnswer="0" />
+      <Answer Answer="The Appalachians" IsCorrectAnswer="1" />
+      <Answer Answer="The Rockies" IsCorrectAnswer="0" />
+      <Answer Answer="The Laurentians" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which provincial capital has Canada’s largest naval base?">
+      <Answer Answer="Fredericton" IsCorrectAnswer="0" />
+      <Answer Answer="Charlottetown" IsCorrectAnswer="0" />
+      <Answer Answer="Victoria" IsCorrectAnswer="0" />
+      <Answer Answer="Halifax" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="The highest tides in the world rise in which Canadian province?">
+      <Answer Answer="Newfoundland and Labrador" IsCorrectAnswer="0" />
+      <Answer Answer="British Columbia" IsCorrectAnswer="0" />
+      <Answer Answer="Nova Scotia" IsCorrectAnswer="1" />
+      <Answer Answer="Prince Edward Island" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is the capital of Nova Scotia?">
+      <Answer Answer="Whitehorse" IsCorrectAnswer="0" />
+      <Answer Answer="Halifax" IsCorrectAnswer="1" />
+      <Answer Answer="Winnipeg" IsCorrectAnswer="0" />
+      <Answer Answer="Charlottetown" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is the capital of Northwest Territories?">
+      <Answer Answer="Winnipeg" IsCorrectAnswer="0" />
+      <Answer Answer="Whitehorse" IsCorrectAnswer="0" />
+      <Answer Answer="Charlottetown" IsCorrectAnswer="0" />
+      <Answer Answer="Yellowknife" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Roughly how big is Canada?">
+      <Answer Answer="7,500,000 km²" IsCorrectAnswer="0" />
+      <Answer Answer="10,000,000 km²" IsCorrectAnswer="1" />
+      <Answer Answer="15,000,000 km²" IsCorrectAnswer="0" />
+      <Answer Answer="5,000,000 km²" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which of these provinces is/was the oldest colony of the British Empire?">
+      <Answer Answer="New Brunswick" IsCorrectAnswer="0" />
+      <Answer Answer="Nova Scotia" IsCorrectAnswer="0" />
+      <Answer Answer="Prince Edward Island" IsCorrectAnswer="0" />
+      <Answer Answer="Newfoundland and Labrador" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="After Paris, the 2nd largest mainly French-speaking city in the world is…?">
+      <Answer Answer="Montréal" IsCorrectAnswer="1" />
+      <Answer Answer="Ottawa" IsCorrectAnswer="0" />
+      <Answer Answer="Toronto" IsCorrectAnswer="0" />
+      <Answer Answer="Québec City" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="The population of Québec is nearly…?">
+      <Answer Answer="7 million" IsCorrectAnswer="0" />
+      <Answer Answer="8 million" IsCorrectAnswer="1" />
+      <Answer Answer="6 million" IsCorrectAnswer="0" />
+      <Answer Answer="9 million" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What proportion of the population of New Brunswick has French as their first language?">
+      <Answer Answer="One third" IsCorrectAnswer="1" />
+      <Answer Answer="One half" IsCorrectAnswer="0" />
+      <Answer Answer="One tenth" IsCorrectAnswer="0" />
+      <Answer Answer="One quarter" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="In what year was Nunavut established?">
+      <Answer Answer="1979" IsCorrectAnswer="0" />
+      <Answer Answer="2009" IsCorrectAnswer="0" />
+      <Answer Answer="1999" IsCorrectAnswer="1" />
+      <Answer Answer="1989" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is the capital of Ontario?">
+      <Answer Answer="Toronto" IsCorrectAnswer="1" />
+      <Answer Answer="Edmonton" IsCorrectAnswer="0" />
+      <Answer Answer="Victoria" IsCorrectAnswer="0" />
+      <Answer Answer="Winnipeg" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Mount Logan, the highest mountain in Canada, is in what province or territory?">
+      <Answer Answer="Northwest Territories" IsCorrectAnswer="0" />
+      <Answer Answer="British Columbia" IsCorrectAnswer="0" />
+      <Answer Answer="Nunavut" IsCorrectAnswer="0" />
+      <Answer Answer="Yukon" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="Geographically, Canada is split into how many distinct regions?">
+      <Answer Answer="3" IsCorrectAnswer="0" />
+      <Answer Answer="5" IsCorrectAnswer="1" />
+      <Answer Answer="6" IsCorrectAnswer="0" />
+      <Answer Answer="4" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is the capital of New Brunswick?">
+      <Answer Answer="St John’s" IsCorrectAnswer="0" />
+      <Answer Answer="Whitehorse" IsCorrectAnswer="0" />
+      <Answer Answer="Fredericton" IsCorrectAnswer="1" />
+      <Answer Answer="Charlottetown" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What percentage of the population of Northwest Territories is Aboriginal?">
+      <Answer Answer="50% plus" IsCorrectAnswer="1" />
+      <Answer Answer="40% plus" IsCorrectAnswer="0" />
+      <Answer Answer="25% plus" IsCorrectAnswer="0" />
+      <Answer Answer="75% plus" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is the size of Canada’s population?">
+      <Answer Answer="24 million" IsCorrectAnswer="0" />
+      <Answer Answer="34 million" IsCorrectAnswer="1" />
+      <Answer Answer="54 million" IsCorrectAnswer="0" />
+      <Answer Answer="44 million" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is the capital of Alberta?">
+      <Answer Answer="Edmonton" IsCorrectAnswer="1" />
+      <Answer Answer="Fredericton" IsCorrectAnswer="0" />
+      <Answer Answer="Winnipeg" IsCorrectAnswer="0" />
+      <Answer Answer="Victoria" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="How many provinces does Canada have?">
+      <Answer Answer="10" IsCorrectAnswer="1" />
+      <Answer Answer="5" IsCorrectAnswer="0" />
+      <Answer Answer="12" IsCorrectAnswer="0" />
+      <Answer Answer="7" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is the capital of Nunavut?">
+      <Answer Answer="Yellowknife" IsCorrectAnswer="0" />
+      <Answer Answer="Toronto" IsCorrectAnswer="0" />
+      <Answer Answer="Iqualit" IsCorrectAnswer="1" />
+      <Answer Answer="Whitehorse" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is the capital of British Columbia?">
+      <Answer Answer="Yellowknife" IsCorrectAnswer="0" />
+      <Answer Answer="Victoria" IsCorrectAnswer="1" />
+      <Answer Answer="Halifax" IsCorrectAnswer="0" />
+      <Answer Answer="Winnipeg" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which is the largest city in Canada?">
+      <Answer Answer="Ottawa" IsCorrectAnswer="0" />
+      <Answer Answer="Montréal" IsCorrectAnswer="0" />
+      <Answer Answer="Ontario" IsCorrectAnswer="0" />
+      <Answer Answer="Toronto" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="The population of Nunavut is how much Inuit?">
+      <Answer Answer="95%" IsCorrectAnswer="0" />
+      <Answer Answer="65%" IsCorrectAnswer="0" />
+      <Answer Answer="85%" IsCorrectAnswer="1" />
+      <Answer Answer="75%" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="What is the capital of Québec?">
+      <Answer Answer="Québec city" IsCorrectAnswer="1" />
+      <Answer Answer="Edmonton" IsCorrectAnswer="0" />
+      <Answer Answer="Victoria" IsCorrectAnswer="0" />
+      <Answer Answer="Toronto" IsCorrectAnswer="0" />
+    </Quiz>
+    <Quiz Question="Which of the five Great Lakes is the only one that isn’t at least partly in Canada?">
+      <Answer Answer="Lake Erie" IsCorrectAnswer="0" />
+      <Answer Answer="Lake Superior" IsCorrectAnswer="0" />
+      <Answer Answer="Lake Huron" IsCorrectAnswer="0" />
+      <Answer Answer="Lake Michigan" IsCorrectAnswer="1" />
+    </Quiz>
+    <Quiz Question="What percentage of Canada’s population lives around the Great Lakes and the Saint Lawrence River?">
+      <Answer Answer="75% plus" IsCorrectAnswer="0" />
+      <Answer Answer="10% plus" IsCorrectAnswer="0" />
+      <Answer Answer="50% plus" IsCorrectAnswer="1" />
+      <Answer Answer="25% plus" IsCorrectAnswer="0" />
+    </Quiz>
+  </Chapter>
+</Chapters>

@@ -1,0 +1,82 @@
+﻿<Window x:Class="CitizenShipApp.MainView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewModel="clr-namespace:CitizenShipApp.ViewModels"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:CitizenShipApp.Views"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="650" Width="1000">
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type viewModel:QuizStartupViewModel}">
+            <local:QuizStartupView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewModel:QuestionAnswersViewModel}">
+            <local:QuestionAnswersView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewModel:ResultViewModel}">
+            <local:ResultView/>
+        </DataTemplate>
+        <Storyboard x:Key="SlideIn_Storyboard">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="contentControl">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-895"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Window.Resources>
+    <Window.Triggers>
+        <!--<EventTrigger RoutedEvent="ButtonBase.Click" SourceName="SubmitButton">
+            <BeginStoryboard Storyboard="{StaticResource SlideIn_Storyboard}"/>
+        </EventTrigger>-->
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource SlideIn_Storyboard}"/>
+        </EventTrigger>
+    </Window.Triggers>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <!--<RowDefinition Height="60"/>-->
+            <RowDefinition Height="*" />
+            <RowDefinition Height="100" />
+        </Grid.RowDefinitions>
+
+        <Border Background="#FF4C8DDA">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <TextBlock Text="CITIZENSHIP QUIZ"  FontSize="26" FontWeight="Bold" FontStyle="Italic" Foreground="White" Margin="0,5,15,5"/>
+                    <materialDesign:PackIcon Kind="AccountCardDetails" Height="34" Width="34" VerticalAlignment="Center" Foreground="White"/>
+                </StackPanel>
+                <TextBlock Text="{Binding ChapterName, FallbackValue=Chapter}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" FontWeight="Bold" Foreground="White"/>
+            </StackPanel>
+        </Border>
+
+        <ContentControl x:Name="contentControl" Grid.Row="1" Content="{Binding CurrentViewModel}" RenderTransformOrigin="0.5,0.5" >
+            <ContentControl.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ContentControl.RenderTransform>
+        </ContentControl>
+
+        <Grid Grid.Row="2" Background="#FF4C8DDA">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="150"/>
+            </Grid.ColumnDefinitions>
+            
+            <Button HorizontalAlignment="Center" Command="{Binding StartCommand}"  Background="#FF0017FF" BorderBrush="#FF0017FF">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Start" TextAlignment="Center" VerticalAlignment="Center" Margin="0,0,5,0" />
+                    <materialDesign:PackIcon Kind="Import" Height="24" Width="24" />
+                </StackPanel>
+            </Button>
+
+        </Grid>
+    </Grid>
+</Window>
