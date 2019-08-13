@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CitizenShipApp.Test
+namespace CitizenShipApp.Repositories.Test
 {
     [TestFixture]
     public class QuestionAnswersRepositoryTest

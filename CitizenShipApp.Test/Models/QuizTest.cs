@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CitizenShipApp.Test
+namespace CitizenShipApp.Models.Test
 {
     [TestFixture]
     public class QuizTest

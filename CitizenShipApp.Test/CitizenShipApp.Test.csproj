@@ -72,13 +72,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MainViewModelTest.cs" />
+    <Compile Include="ViewModel\MainViewModelTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QuestionAnswersRepositoryTest.cs" />
-    <Compile Include="QuestionAnswersTest.cs" />
-    <Compile Include="QuestionAnswersViewModelTest.cs" />
-    <Compile Include="QuestionAnswerXmlRepositoryTest.cs" />
-    <Compile Include="QuizTest.cs" />
+    <Compile Include="Repositories\QuestionAnswersRepositoryTest.cs" />
+    <Compile Include="Models\QuestionAnswersTest.cs" />
+    <Compile Include="Repositories\QuestionAnswerXmlRepositoryTest.cs" />
+    <Compile Include="Models\QuizTest.cs" />
     <Compile Include="ViewModel\QuestionAnswersViewModelTest.cs" />
     <Compile Include="ViewModel\QuizStartupViewModelTest.cs" />
   </ItemGroup>
