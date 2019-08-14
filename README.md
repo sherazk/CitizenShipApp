@@ -1,7 +1,7 @@
 # CitizenShip Application
-###Start up Page
+### Start up Page
 ![](/Images/QuizStartup.jpg)
-###Question Answer Page
+### Question Answer Page
 ![](/Images/QuestionAnswers.jpg)
-###Result Page
+### Result Page
 ![](/Images/Result.jpg)
