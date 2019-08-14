@@ -10,6 +10,9 @@ namespace CitizenShipApp.Events
 {
     public class QuizStartupEvent : PubSubEvent<QuizStartup>
     {
-        
+        public void Subscribe(QuizStartup quizStartup)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

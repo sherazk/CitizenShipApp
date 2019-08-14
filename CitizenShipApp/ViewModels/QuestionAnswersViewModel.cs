@@ -1,4 +1,5 @@
 ﻿using CitizenShipApp.Data;
+using CitizenShipApp.DataProvider;
 using CitizenShipApp.Events;
 using CitizenShipApp.Models;
 using Prism.Commands;
@@ -16,16 +17,21 @@ namespace CitizenShipApp.ViewModels
         private List<QuestionAnswers> _questionAnswersList;
         private int _currentIndex;
         private IEventAggregator _eventAggregator;
-        IQuestionAnswersRepository<QuestionAnswerXmlRepository> _repository;
-        public QuestionAnswersViewModel(IEventAggregator eventAggregator, 
-            IQuestionAnswersRepository<QuestionAnswerXmlRepository> repository)
+        //IQuestionAnswersRepository<QuestionAnswerXmlRepository> _repository;
+        private IQuestionAnswerDataProvider _questionAnswerDataProvider;
+
+        public QuestionAnswersViewModel(IEventAggregator eventAggregator,
+            IQuestionAnswerDataProvider questionAnswerDataProvider
+            //,IQuestionAnswersRepository<QuestionAnswerXmlRepository> repository
+            )
         {
-            _repository = repository;
+            //_repository = repository;
+            _questionAnswerDataProvider = questionAnswerDataProvider;
             _currentIndex = 0;
             NextQuestionCommand = new DelegateCommand(OnNextQuestionExecuted,CanMoveToNextQuestionExecuted);
             AnswerSelectedCommand = new DelegateCommand(OnAnswerSelectedExecuted);
             _eventAggregator = eventAggregator;
-            _eventAggregator.GetEvent<QuizStartupEvent>().Subscribe(SetupViewModelWhenQuizStarts);
+            _eventAggregator.GetEvent<QuizStartupEvent>().Subscribe(InitializeQuestionAnswersForQuiz);
         }
 
         private QuestionAnswers questionAnswers;
@@ -78,10 +84,10 @@ namespace CitizenShipApp.ViewModels
 
         public ICommand PreviousQuestionCommand { get; }
 
-        private void SetupViewModelWhenQuizStarts(QuizStartup quizStartup)
+        private void InitializeQuestionAnswersForQuiz(QuizStartup quizStartup)
         {
-            var result = _repository.GetNumberOfQuestionsByChapter(quizStartup.ChapterName, quizStartup.NumberOfQuesitons);
-            if (result.IsSucess)
+            IResult<IEnumerable<QuestionAnswers>> result = _questionAnswerDataProvider.GetNumberOfQuestionsByChapter(quizStartup.ChapterName, quizStartup.NumberOfQuesitons);
+            if (result !=null && result.IsSucess)
             {
                 _currentIndex = 0;
                 SelectedAnswer = null;

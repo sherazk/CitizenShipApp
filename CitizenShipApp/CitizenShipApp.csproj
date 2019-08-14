@@ -70,7 +70,9 @@
     <Compile Include="Converters\InverseBooleanConverter.cs" />
     <Compile Include="Converters\MultiValueConverter.cs" />
     <Compile Include="Converters\TextColorSelector.cs" />
+    <Compile Include="DataProvider\IQuestionAnswerDataProvider.cs" />
     <Compile Include="DataProvider\IQuizStartupDataProvider.cs" />
+    <Compile Include="DataProvider\QuestionAnswerDataProvider.cs" />
     <Compile Include="DataProvider\QuizStartupDataProvider.cs" />
     <Compile Include="Data\DummyQuestionAnswers.cs" />
     <Compile Include="Data\IQuestionAnswersRepository.cs" />

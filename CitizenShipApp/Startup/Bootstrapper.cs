@@ -27,6 +27,7 @@ namespace CitizenShipApp.Startup
             builder.RegisterType<QuestionAnswersViewModel>().As<IQuestionAnswersViewModel>().SingleInstance();
             builder.RegisterType<ResultViewModel>().As<IResultViewModel>().SingleInstance();
             builder.RegisterType<QuizStartupDataProvider>().As<IQuizStartupDataProvider>().SingleInstance();
+            builder.RegisterType<QuestionAnswerDataProvider>().As<IQuestionAnswerDataProvider>().SingleInstance();
 
             //Repositories
             builder.RegisterType<QuestionAnswersRepository>().As<IQuestionAnswersRepository<QuestionAnswersRepository>>().SingleInstance();
